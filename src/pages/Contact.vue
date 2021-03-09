@@ -36,11 +36,11 @@
           >02 35 45 54 45</a
         >
         <a
-          href="mailto:contact@lanef-passion.fr"
+          href="mailto:contact@lanefpassion.fr"
           class="button button-primary"
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="nous écrire à : mailto:contact@lanef-passion.fr"
+          aria-label="nous écrire à : mailto:contact@lanefpassion.fr"
           >Écrivez-nous</a
         >
       </p>

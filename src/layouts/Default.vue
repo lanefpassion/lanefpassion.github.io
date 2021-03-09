@@ -33,8 +33,8 @@
           </p>
           <p><a href="tel:0235455445" aria-label="Appeler le 02 35 45 54 45">02 35 45 54 45</a></p>
           <p>
-            <a href="mailto:contact@lanef-passion.fr"
-              >contact@lanef-passion.fr</a
+            <a href="mailto:contact@lanefpassion.fr"
+              >contact@lanefpassion.fr</a
             >
           </p>
         </div>
