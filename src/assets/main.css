@@ -196,8 +196,8 @@ a:hover {
 }
 
 .entry__content img {
-  margin-top: calc(var(--spacing) * 2);
-  margin-bottom: calc(var(--spacing) * 2);
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 .entry__footer {
