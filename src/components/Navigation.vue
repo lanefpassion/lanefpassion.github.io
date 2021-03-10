@@ -15,7 +15,7 @@
         <g-link class="menu__link" to="/cuisines">Nos cuisines</g-link>
       </li>
       <li class="menu__item">
-        <g-link class="menu__link" to="/partenaires/">Nos partenaire</g-link>
+        <g-link class="menu__link" to="/partenaires/">Nos partenaires</g-link>
       </li>
       <li class="menu__item">
         <g-link class="menu__link is-accent" to="/contact/">Rendez-vous</g-link>
@@ -52,6 +52,9 @@ export default {
   padding-left: 0;
 }
 
+.menu__item {
+  margin: 0 .5em;
+}
 .menu__link {
   display: block;
   padding: 1em;
