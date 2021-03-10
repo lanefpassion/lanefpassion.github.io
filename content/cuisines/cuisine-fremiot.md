@@ -1,7 +1,7 @@
 ---
 title: Cuisine Frémiot
 subtitle: Une cuisine de gourmet
-excerpt: Un extrait de la cuisine en quelques mot
+excerpt: Une cuisine de gourmets entièrement sur-mesure avec son îlot central et pensée avec soin dans tous les détails de la conception.
 image_cover: /uploads/fremiot_02bd.jpg
 ---
 
