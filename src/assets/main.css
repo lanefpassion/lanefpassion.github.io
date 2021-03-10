@@ -171,6 +171,11 @@ a:hover {
   --button-color: var(--light-color);
 }
 
+.button:hover {
+  text-decoration: none;
+  opacity: .8;
+}
+
 /**
  * Entry
  * --------------------------------------------- */
