@@ -1,5 +1,5 @@
 ---
-title: Cuisine Frémiot
+title: Cuisine S. F.
 subtitle: Une cuisine de gourmet
 excerpt: Une cuisine de gourmets entièrement sur-mesure avec son îlot central et pensée avec soin dans tous les détails de la conception.
 image_cover: /uploads/fremiot_02bd.jpg
@@ -12,8 +12,6 @@ image_cover: /uploads/fremiot_02bd.jpg
 Ici, l'on joue de nuances de noir, gris et blanc afin d'apporter une atmosphère chic et intemporelle.
 
 La vue sur le jardin arboré est mise en avant par cet îlot qui lui fait face. Une céramique sombre recouvre le sol et les murs, contrastant avec le plan de travail en quartzite claire.
-
-![](/uploads/fremiot_03bd.jpg)
 
 ## L’îlot central
 
