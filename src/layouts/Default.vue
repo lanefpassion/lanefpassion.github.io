@@ -27,11 +27,11 @@
               target="_blank"
               rel="noopener noreferrer"
             >
-              12 bis avenue Carnot<br />
-              76000 Rouen
+              12 avenue Carnot<br />
+              76250 Déville lès rouen
             </a>
           </p>
-          <p><a href="tel:0235455445" aria-label="Appeler le 02 35 45 54 45">02 35 45 54 45</a></p>
+          <p><a href="tel:0232102727" aria-label="Appeler le 02 32 10 27 27">02 32 10 27 27</a></p>
           <p>
             <a href="mailto:contact@lanefpassion.fr"
               >contact@lanefpassion.fr</a
@@ -75,6 +75,18 @@
               class="footer-social__icon"
               alt=""
               src="~/assets/images/pinterest.svg"
+              width="30"
+          /></a>
+          <a
+            class="footer-social__link"
+            href="https://www.houzz.fr/professionnels/cuisiniste-et-concepteur-de-cuisine/lanef-passion-sas-pfvwfr-pf~759163393"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Retrouvez-nous sur Houzz"
+            ><g-image
+              class="footer-social__icon"
+              alt=""
+              src="~/assets/images/houzz.svg"
               width="30"
           /></a>
         </div>

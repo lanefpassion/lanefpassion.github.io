@@ -16,7 +16,7 @@
           target="_blank"
           rel="noopener noreferrer"
         >
-          12 bis avenue Carnot<br />
+          12 avenue Carnot<br />
           76250 Déville-lès-Rouen
         </a>
       </address>
@@ -28,12 +28,12 @@
 
       <p class="text-center">
         <a
-          href="tel:0235455445"
+          href="tel:0232102727"
           class="button button-accent"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="appeler le :"
-          >02 35 45 54 45</a
+          >02 32 10 27 27</a
         >
         <a
           href="mailto:contact@lanefpassion.fr"
