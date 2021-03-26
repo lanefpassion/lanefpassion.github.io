@@ -1,5 +1,8 @@
 <template>
   <div class="layout">
+    <div class="notice">
+      Suite aux annonces gouvernementales, <strong>le showroom est fermé jusqu'au 18 avril</strong>. Nous restons joignables par mail et téléphone.
+    </div>
     <header class="header" role="banner">
       <div class="header__inner">
         <div class="header-logo">
@@ -129,6 +132,14 @@ export default {
   grid-template-rows: auto 1fr auto;
   min-height: 100%;
   margin: 0 auto;
+}
+
+.notice {
+  padding: 1em;
+  background: #000;
+  color: white;
+  text-align: center;
+  font-size: .8em;
 }
 
 .header,
