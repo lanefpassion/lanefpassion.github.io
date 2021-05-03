@@ -1,7 +1,7 @@
 <template>
   <div class="layout">
     <div class="notice">
-      Suite aux annonces gouvernementales, <strong>le showroom est fermé jusqu'au 18 avril</strong>. Nous restons joignables par mail et téléphone.
+      Suite aux annonces gouvernementales et sous réserve de nouvelles annonces, <strong>le showroom est fermé jusqu'au 19 mai</strong>. Nous restons joignables par mail et téléphone.
     </div>
     <header class="header" role="banner">
       <div class="header__inner">
