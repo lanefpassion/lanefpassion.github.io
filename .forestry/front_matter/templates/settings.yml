@@ -12,3 +12,26 @@ fields:
       required: false
     label: Email
   label: Informations
+- name: notification
+  type: field_group
+  config: {}
+  fields:
+  - name: titre
+    type: text
+    config:
+      required: false
+    label: Titre
+  - name: message
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Message
+  - name: active
+    type: boolean
+    label: Activer
+  label: Notification
+  description: Ajouter une barre de notification au dessus du header
