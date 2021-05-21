@@ -1,0 +1,16 @@
+---
+label: Cuisine
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: file
+  name: image_cover
+  label: image_cover
