@@ -5,6 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/partenaires
+  label: Partenaires
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
   path: content/cuisines
   label: Cuisines
   create: documents
