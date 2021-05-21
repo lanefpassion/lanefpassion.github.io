@@ -16,7 +16,7 @@ fields:
     fields:
     - name: name
       type: select
-      default: []
+      default: Facebook
       config:
         required: false
         options:
@@ -34,7 +34,7 @@ fields:
     - name: url
       type: text
       config:
-        required: false
+        required: true
       label: url
     config:
       min: 
