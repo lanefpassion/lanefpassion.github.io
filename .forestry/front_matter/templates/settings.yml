@@ -11,6 +11,36 @@ fields:
     config:
       required: false
     label: Email
+  - name: socials
+    type: field_group_list
+    fields:
+    - name: name
+      type: select
+      default: []
+      config:
+        required: false
+        options:
+        - Facebook
+        - Twitter
+        - Instagram
+        - Pinterest
+        - Houzz
+        source:
+          type: simple
+          section: 
+          file: 
+          path: 
+      label: Nom
+    - name: url
+      type: text
+      config:
+        required: false
+      label: url
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Réseaux sociaux
   label: Informations
 - name: notification
   type: field_group
