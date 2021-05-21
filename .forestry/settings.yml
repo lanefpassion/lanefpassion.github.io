@@ -10,12 +10,16 @@ sections:
   create: documents
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - cuisine
 - type: directory
   path: content/partenaires
   label: Partenaires
   create: all
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - partenaire
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
