@@ -1,4 +1,14 @@
 ---
 label: Settings
 hide_body: true
-fields: []
+fields:
+- name: informations
+  type: field_group
+  config: {}
+  fields:
+  - name: email
+    type: text
+    config:
+      required: false
+    label: Email
+  label: Informations
