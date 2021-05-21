@@ -1,0 +1,16 @@
+---
+label: Partenaire
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image_featured
+  label: image_featured
+- type: text
+  name: url
+  label: url
