@@ -39,7 +39,7 @@ fields:
     config:
       min: 
       max: 
-      labelField: 
+      labelField: name
     label: Réseaux sociaux
   label: Informations
 - name: notification
@@ -65,3 +65,5 @@ fields:
     label: Activer
   label: Notification
   description: Ajouter une barre de notification au dessus du header
+pages:
+- content/settings.json

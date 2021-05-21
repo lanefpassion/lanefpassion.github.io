@@ -1,0 +1,16 @@
+{
+  "informations": {
+    "socials": [
+      {
+        "url": "https://www.facebook.com/lanefpassionrouen/",
+        "name": "Facebook"
+      }
+    ],
+    "email": ""
+  },
+  "notification": {
+    "titre": "",
+    "message": "",
+    "active": false
+  }
+}
