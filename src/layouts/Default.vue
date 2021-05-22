@@ -33,8 +33,8 @@
           </p>
           <p><a href="tel:0232102727" aria-label="Appeler le 02 32 10 27 27">02 32 10 27 27</a></p>
           <p>
-            <a href="mailto:contact@lanefpassion.fr"
-              >contact@lanefpassion.fr</a
+            <a :href="`mailto:${email}`"
+              >{{email}}</a
             >
           </p>
         </div>
@@ -107,6 +107,11 @@
 query {
   metadata {
     siteName
+    settings {
+      informations {
+        email
+      }
+    }
   }
 }
 </static-query>
@@ -120,6 +125,11 @@ export default {
     Logo,
     Navigation,
   },
+  computed: {
+    email() {
+      return this.$static.metadata.settings.informations.email
+    }
+  }
 };
 </script>
 
