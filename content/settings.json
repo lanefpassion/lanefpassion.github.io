@@ -4,9 +4,23 @@
       {
         "url": "https://www.facebook.com/lanefpassionrouen/",
         "name": "Facebook"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/lanefpassion/"
+      },
+      {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.fr/LanefPassion/"
+      },
+      {
+        "name": "Houzz",
+        "url": "https://www.houzz.fr/professionnels/cuisiniste-et-concepteur-de-cuisine/lanef-passion-sas-pfvwfr-pf~759163393"
       }
     ],
-    "email": "contact@lanefpassion.fr"
+    "email": "contact@lanefpassion.fr",
+    "address": "12 avenue Carnot\n76250 Déville lès rouen ",
+    "phone": "02 32 10 27 27"
   },
   "notification": {
     "titre": "",
