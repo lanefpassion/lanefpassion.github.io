@@ -6,6 +6,20 @@ fields:
   type: field_group
   config: {}
   fields:
+  - name: address
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Adresse
+  - name: phone
+    type: text
+    config:
+      required: false
+    label: Téléphone
   - name: email
     type: text
     config:
