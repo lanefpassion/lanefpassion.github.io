@@ -25,6 +25,6 @@
   "notification": {
     "titre": "Information ouverture",
     "message": "Bonjour nous avons le plaisir de vous annoncer la réouverture de notre showroom",
-    "active": true
+    "active": false
   }
 }
