@@ -23,8 +23,8 @@
     "phone": "02 32 10 27 27"
   },
   "notification": {
-    "titre": "",
-    "message": "",
-    "active": false
+    "titre": "Information ouverture",
+    "message": "Bonjour nous avons le plaisir de vous annoncer la réouverture de notre showroom",
+    "active": true
   }
 }
