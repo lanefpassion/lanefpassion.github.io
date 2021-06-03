@@ -1,5 +1,8 @@
 <template>
   <div class="layout">
+    <div v-if="notification.active" class="notification">
+      {{notification.message}}
+    </div>
     <header class="header" role="banner">
       <div class="header__inner">
         <div class="header-logo">
@@ -111,6 +114,10 @@ query {
       informations {
         email
       }
+      notification {
+        message
+        active
+      }
     }
   }
 }
@@ -128,6 +135,9 @@ export default {
   computed: {
     email() {
       return this.$static.metadata.settings.informations.email
+    },
+    notification() {
+      return this.$static.metadata.settings.notification
     }
   }
 };
@@ -191,6 +201,14 @@ export default {
 .header__nav {
   display: flex;
   flex-wrap: wrap;
+}
+
+.notification {
+  padding: 2rem 5vw;
+  background: var(--dark-color);
+  color: var(--light-color);
+  text-align: center;
+  font-size: .8em;
 }
 
 /* Footer */
