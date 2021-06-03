@@ -1,8 +1,6 @@
 <template>
   <div class="layout">
-    <div v-if="notification.active" class="notification">
-      {{notification.message}}
-    </div>
+    <Notification class="is-warning" />
     <header class="header" role="banner">
       <div class="header__inner">
         <div class="header-logo">
@@ -34,66 +32,16 @@
               76250 Déville lès rouen
             </a>
           </p>
-          <p><a href="tel:0232102727" aria-label="Appeler le 02 32 10 27 27">02 32 10 27 27</a></p>
-          <p>
-            <a :href="`mailto:${email}`"
-              >{{email}}</a
-            >
+          <p v-if="phone">
+            <a :href="`tel:${phone.replace(/\s+/g, '')}`" :aria-label="`Appeler le ${phone}`">{{phone}}</a>
+            </p>
+          <p v-if="email">
+            <a :href="`mailto:${email}`">{{email}}</a>
           </p>
         </div>
         <!-- end footer-contact -->
 
-        <div class="footer-social">
-          <a
-            class="footer-social__link"
-            href="https://www.facebook.com/lanefpassionrouen/"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Retrouvez-nous sur Facebook"
-            ><g-image
-              class="footer-social__icon"
-              alt=""
-              src="~/assets/images/facebook.svg"
-              width="30"
-          /></a>
-          <a
-            class="footer-social__link"
-            href="https://www.instagram.com/lanefpassion/"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Retrouvez-nous sur Instagram"
-            ><g-image
-              class="footer-social__icon"
-              alt=""
-              src="~/assets/images/instagram.svg"
-              width="30"
-          /></a>
-          <a
-            class="footer-social__link"
-            href="https://www.pinterest.fr/LanefPassion/"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Retrouvez-nous sur Pinterest"
-            ><g-image
-              class="footer-social__icon"
-              alt=""
-              src="~/assets/images/pinterest.svg"
-              width="30"
-          /></a>
-          <a
-            class="footer-social__link"
-            href="https://www.houzz.fr/professionnels/cuisiniste-et-concepteur-de-cuisine/lanef-passion-sas-pfvwfr-pf~759163393"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Retrouvez-nous sur Houzz"
-            ><g-image
-              class="footer-social__icon"
-              alt=""
-              src="~/assets/images/houzz.svg"
-              width="30"
-          /></a>
-        </div>
-        <!-- end footer-social -->
+        <Socials />
 
         <div class="footer-credits">
           {{ new Date().getFullYear() }}
@@ -113,10 +61,7 @@ query {
     settings {
       informations {
         email
-      }
-      notification {
-        message
-        active
+        phone
       }
     }
   }
@@ -126,18 +71,22 @@ query {
 <script>
 import Logo from "~/components/Logo";
 import Navigation from "~/components/Navigation";
+import Notification from "~/components/Notification";
+import Socials from "~/components/Socials";
 
 export default {
   components: {
     Logo,
     Navigation,
+    Notification,
+    Socials
   },
   computed: {
+    phone() {
+      return this.$static.metadata.settings.informations.phone
+    },
     email() {
       return this.$static.metadata.settings.informations.email
-    },
-    notification() {
-      return this.$static.metadata.settings.notification
     }
   }
 };
@@ -203,13 +152,6 @@ export default {
   flex-wrap: wrap;
 }
 
-.notification {
-  padding: 2rem 5vw;
-  background: var(--dark-color);
-  color: var(--light-color);
-  text-align: center;
-  font-size: .8em;
-}
 
 /* Footer */
 .footer {
@@ -230,11 +172,6 @@ export default {
   text-transform: uppercase;
   letter-spacing: 0.25rem;
   font-size: 0.8em;
-}
-
-/** Footer social */
-.footer-social__link {
-  padding: 1em;
 }
 
 /** Footer credits */
