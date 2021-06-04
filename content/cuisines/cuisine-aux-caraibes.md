@@ -1,5 +1,5 @@
 ---
-title: Cuisine aux Caraibes
+title: Cuisine aux Caraïbes
 subtitle: Une cuisine professionnelle à la maison
 excerpt: Une cuisine digne d’un restaurant, implantée aux Caraïbes
 image_cover: "/uploads/accueil_01bd.jpg"
