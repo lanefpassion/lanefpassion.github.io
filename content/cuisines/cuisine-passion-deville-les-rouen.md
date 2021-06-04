@@ -7,9 +7,6 @@ excerpt: Dans notre showroom, à déville lès Rouen, venez découvrir notre sav
 image_cover: "/uploads/photo-cuisine-showroom-lanef-pasison.png"
 
 ---
-# Cuisine Passion Déville lès Rouen
-
-Dans notre showroom, à déville lès Rouen, venez découvrir notre savoir-faire unique sur la conception de cuisines sur mesure aménagées et entièrement équipées en électroménagers haut de gamme.
 
 ![](/uploads/photo-cuisine-showroom-lanef-pasison.png)
 
