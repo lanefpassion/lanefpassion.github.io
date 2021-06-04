@@ -5,6 +5,8 @@ excerpt: Une cuisine digne d’un restaurant, implantée aux Caraïbes
 image_cover: "/uploads/accueil_01bd.jpg"
 
 ---
+![](/uploads/accueil_01bd.jpg)
+
 ## Un équipement professionnel
 
 L’électroménager haut de gamme et professionnel est au centre de cette cuisine d’exception.
