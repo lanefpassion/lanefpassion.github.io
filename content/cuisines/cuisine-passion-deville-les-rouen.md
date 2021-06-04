@@ -7,11 +7,17 @@ excerpt: Dans notre showroom, à déville lès Rouen, venez découvrir notre sav
 image_cover: "/uploads/photo-cuisine-showroom-lanef-pasison.png"
 
 ---
-# Chic et intemporelle
+# Cuisine Passion Déville lès Rouen
+
+Dans notre showroom, à déville lès Rouen, venez découvrir notre savoir-faire unique sur la conception de cuisines sur mesure aménagées et entièrement équipées en électroménagers haut de gamme.
+
+![](/uploads/photo-cuisine-showroom-lanef-pasison.png)
+
+## Chic et intemporelle
 
 Pour la réalisation de cette cuisine implantée dans notre showroom de Déville les Rouen, nous avons mêlé des matériaux nobles : l’inox poli, le chêne naturel, le chêne laqué noir et un plan de travail en Bianco Nuvola pour un résultat moderne et design.
 
-# Une implantation réfléchie
+## Une implantation réfléchie
 
 Parce que la fonctionnalité est indispensable, l’îlot est multifonction : élément central, il accueille une table de cuisson, un espace de préparation, de multiples rangements aménagés et un espace repas convivial. Entièrement sur mesure, il est notre signature : un châssis en inox poli habillé de façades en bois.
 
@@ -23,4 +29,4 @@ L’ensemble est surplombé d’un plafond filtrant réalisé sur mesure par Lan
 
 Venez découvrir cette réalisation d’exception dans notre showroom de Déville lès Rouen.
 
-![](/uploads/5e7a8661.jpg)![](/uploads/5e7a8659.jpg)![](/uploads/5e7a8667.jpg)![](/uploads/5e7a8687.jpg)![](/uploads/5e7a8713.jpg)
+[Download File]( "Download File")![](/uploads/5e7a8659.jpg)![](/uploads/5e7a8667.jpg)![](/uploads/5e7a8687.jpg)![](/uploads/5e7a8713.jpg)
