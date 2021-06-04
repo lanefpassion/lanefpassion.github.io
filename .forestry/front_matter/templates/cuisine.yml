@@ -14,3 +14,5 @@ fields:
 - type: file
   name: image_cover
   label: image_cover
+pages:
+- content/cuisines/cuisine-passion-deville-les-rouen.md
