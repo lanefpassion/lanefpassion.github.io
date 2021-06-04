@@ -6,6 +6,8 @@ excerpt: Votre cuisiniste haut de gamme a réalisé une cuisine monolithique en 
 image_cover: "/uploads/projet5_1-1.jpg"
 
 ---
+![](/uploads/projet5_1-1.jpg)
+
 ## Rudy Ricciotti
 
 Cet architecte de renom, maître du béton, a réalisé de nombreux bâtiments d’exception : le Mucem de Marseille, le Pavillon Noir d’Aix-en-Provence...
