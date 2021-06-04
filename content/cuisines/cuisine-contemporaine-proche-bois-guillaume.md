@@ -6,9 +6,11 @@ excerpt: Dans cette pièce, la cuisine se mêle à la salle à manger grâce à 
 image_cover: "/uploads/img_2692.jpg"
 
 ---
+![](/uploads/img_2692.jpg)
+
 ## Un espace cuisine restreint
 
-Afin de regrouper l’ensemble des fonctionnalités de la cuisine sur un espace restreint pour laisser de la place à la salle à manger, nous avons imaginé un mural et un îlot. 
+Afin de regrouper l’ensemble des fonctionnalités de la cuisine sur un espace restreint pour laisser de la place à la salle à manger, nous avons imaginé un mural et un îlot.
 
 Un linéaire de rangement fait le lien avec l’espace repas. Le mural accueille le combiné réfrigérateur Mastercool, deux fours - l’un combiné vapeur, le second combiné micro-ondes, du rangement sur mesure à denrées et quelques étagères.
 
