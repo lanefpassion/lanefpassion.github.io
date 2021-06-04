@@ -3,10 +3,10 @@ title: Cuisine Ricciotti proche Bois-Guillaume
 subtitle: Un monolithe professionnel
 excerpt: Votre cuisiniste haut de gamme a réalisé une cuisine monolithique en inox
   dans une extension vitrée signée Rudy Ricciotti.
-image_cover: "/uploads/projet5_1-1.jpg"
+image_cover: "/uploads/riciotti.jpg"
 
 ---
-![](/uploads/projet5_1-1.jpg)
+![](/uploads/riciotti.jpg)
 
 ## Rudy Ricciotti
 
