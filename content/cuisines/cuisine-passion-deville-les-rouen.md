@@ -7,7 +7,7 @@ excerpt: Dans notre showroom, à déville lès Rouen, venez découvrir notre sav
 image_cover: "/uploads/photo-cuisine-showroom-lanef-pasison.png"
 
 ---
-![](/uploads/photo-cuisine-showroom-lanef-pasison.png)
+![Cuisiniste haut de gamme sur mesure Rouen](/uploads/photo-cuisine-showroom-lanef-pasison.png "Cuisine Showroom Déville les rouen")
 
 ## Chic et intemporelle
 
