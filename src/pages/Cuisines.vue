@@ -10,9 +10,12 @@
     </header>
 
     <section class="cuisines alignfull">
-      <CuisineCard v-for="cuisine in cuisines" :key="cuisine.id" :cuisine="cuisine" />
+      <CuisineCard
+        v-for="cuisine in cuisines"
+        :key="cuisine.id"
+        :cuisine="cuisine"
+      />
     </section>
-
   </Layout>
 </template>
 
@@ -36,23 +39,32 @@ query Cuisines {
 import CuisineCard from "~/components/CuisineCard";
 export default {
   components: {
-    CuisineCard
+    CuisineCard,
   },
   computed: {
     cuisines() {
-      return this.$page.allCuisinePost.edges.map( edge => edge.node)
-    }
+      return this.$page.allCuisinePost.edges.map((edge) => edge.node);
+    },
   },
   metaInfo: {
-    title: 'Nos Cuisines'
+    title: "Nos Cuisines",
   },
 };
 </script>
 
 <style scoped>
+.cuisines {
+  display: grid;
+  grid-gap: 2em;
+}
+@media (min-width: 40rem) {
   .cuisines {
-    display: grid;
-    grid-gap: 2em;
-    grid-template-columns: repeat( auto-fit, minmax(320px, 1fr) );
+    grid-template-columns: repeat(2, 1fr);
   }
+}
+@media (min-width: 60rem) {
+  .cuisines {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
 </style>

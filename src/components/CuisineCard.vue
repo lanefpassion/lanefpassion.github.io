@@ -27,7 +27,6 @@ export default {
 .cuisine-card {
   position: relative;
   min-height: 600px;
-  max-width: 400px;
   background-color: var(--medium-color);
   background-size: cover;
   background-position: center;
@@ -40,12 +39,14 @@ export default {
   flex-direction: column;
   width: 100%;
   height: 100%;
+  padding: 2rem;
   align-items: center;
   justify-content: center;
   background: rgba(0, 0, 0, 0.8);
   transform: scale(0.8);
   transition: all 300ms ease;
   text-decoration: none;
+  text-align: center;
 }
 .cuisine-card__content:hover {
   opacity: 1;
