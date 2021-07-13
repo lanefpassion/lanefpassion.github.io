@@ -93,6 +93,22 @@ export default {
 </script>
 
 <style>
+body {
+  overflow-x: hidden;
+}
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+
 .layout {
   display: grid;
   grid-template-rows: auto 1fr auto;
@@ -104,8 +120,6 @@ export default {
 .content,
 .footer {
   position: relative;
-  padding-left: 2em;
-  padding-right: 2em;
 }
 
 .header,
@@ -124,7 +138,7 @@ export default {
 .footer__inner {
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  width: 90vw;
   max-width: 1440px;
 }
 
