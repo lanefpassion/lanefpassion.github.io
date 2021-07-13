@@ -20,12 +20,12 @@
         </p>
       </div>
       <div class="section-image">
-        <img src="/uploads/accueil_02bd.jpg" alt="" />
+        <img src="/uploads/home-2.jpg" alt="" />
       </div>
     </section>
 
     <figure class="has-top-decoration">
-      <g-image alt="Example image" src="/uploads/accueil_03bd.jpg" />
+      <g-image alt="Example image" src="/uploads/home-3.jpg" />
     </figure>
 
     <section class="home-section-2">
@@ -39,7 +39,7 @@
 
     <section class="home-section-3">
       <div class="section-image">
-        <img src="/uploads/accueil_04bd.jpg" alt="" />
+        <img src="/uploads/home-4.jpg" alt="" />
       </div>
       <div class="section-content">
         <p class="lead">
@@ -65,7 +65,7 @@
         gestion complète de votre projet.
       </p>
 
-      <g-image alt="Example image" src="/uploads/accueil_05_6_7bd.jpg" />
+      <g-image alt="Example image" src="/uploads/home-5.jpg" />
 
       <p>
         De la conception à la réception de chantier, nous souhaitons que la
@@ -79,12 +79,12 @@
     </section>
 
     <figure class="has-bottom-decoration">
-      <g-image alt="Example image" src="/uploads/accueil_08bd.jpg" />
+      <g-image alt="Example image" src="/uploads/home-6.jpg" />
     </figure>
 
     <section class="home-section-5">
       <div class="section-image">
-        <g-image alt="Example image" src="/uploads/accueil_09bd.jpg" />
+        <g-image alt="Example image" src="/uploads/home-7.jpg" />
       </div>
 
       <div class="section-content">
