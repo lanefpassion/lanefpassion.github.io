@@ -2,7 +2,7 @@
   <Layout>
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     <figure class="has-bottom-decoration">
-      <g-image alt="Example image" src="/uploads/accueil_01bd.jpg" width="1440" height="100" fit="cover"/>
+      <g-image alt="Example image" src="/uploads/home-1.jpg" width="1440" height="100" fit="cover"/>
     </figure>
 
     <section class="home-section-1">
