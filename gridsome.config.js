@@ -27,7 +27,7 @@ module.exports = {
   ],
   transformers: {
     remark: {
-      plugins: ["remark-unwrap-images"],
+      plugins: ["gridsome-remark-unwrap-images"],
     },
   },
   templates: {
