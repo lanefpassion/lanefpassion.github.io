@@ -4,7 +4,7 @@ subtitle: Notre savoir-faire d’exception de la conception à la réalisation
 excerpt: Dans notre showroom, à déville lès Rouen, venez découvrir notre savoir-faire
   unique sur la conception de cuisines sur mesure aménagées et entièrement équipées
   en électroménagers haut de gamme.
-image_cover: "/uploads/photo-cuisine-showroom-lanef-pasison.png"
+image_cover: "/uploads/home-1.jpg"
 
 ---
 ![Cuisiniste haut de gamme sur mesure Rouen](/uploads/photo-cuisine-showroom-lanef-pasison.png "Cuisine Showroom Déville les rouen")
@@ -19,7 +19,7 @@ L’inox poli, le chêne naturel, le chêne laqué noir et un plan de travail en
 
 Parce que la fonctionnalité est indispensable, l’îlot est multifonction.
 
-Elément central, il accueille une table de cuisson, un espace de préparation, de multiples rangements aménagés et un espace repas convivial. Entièrement sur mesure, il est notre signature : un châssis en inox poli habillé de façades en bois.
+Élément central, il accueille une table de cuisson, un espace de préparation, de multiples rangements aménagés et un espace repas convivial. Entièrement sur mesure, il est notre signature : un châssis en inox poli habillé de façades en bois.
 
 Un mural lui fait face, composé d’électroménagers de grande qualité, intégrant un four combiné vapeur, une cave à vin, un four combiné micro-ondes, deux tiroirs culinaires et un tiroir de mise sous vide, ainsi que des rangements astucieux. Son agencement est astucieux, les appareils électroménagers dernière génération de la marque Miele sont placés en hauteur afin d’obtenir une praticité dans l'ensemble de vos déplacements.
 
