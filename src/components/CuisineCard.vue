@@ -1,7 +1,7 @@
 <template>
   <article
     class="cuisine-card"
-    :style="`background-image: url(${cuisine.image_cover});`"
+    :style="`background-image: url(${cuisine.image_cover.src});`"
   >
     <g-link :to="cuisine.path" class="cuisine-card__content">
       <div class="cuisine-card__title display-3">{{ cuisine.title }}</div>

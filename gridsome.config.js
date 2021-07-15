@@ -12,6 +12,7 @@ module.exports = {
       use: "@gridsome/source-filesystem",
       options: {
         typeName: "CuisinePost",
+        resolveAbsolutePaths: true,
         path: "./content/cuisines/**/*.md",
       },
     },
@@ -19,6 +20,7 @@ module.exports = {
       use: "@gridsome/source-filesystem",
       options: {
         typeName: "PartenairePost",
+        resolveAbsolutePaths: true,
         path: "./content/partenaires/**/*.md",
       },
     },
@@ -42,4 +44,4 @@ module.exports = {
       precomposed: true,
     },
   },
-};
+}

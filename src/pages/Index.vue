@@ -2,7 +2,7 @@
   <Layout>
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     <figure class="has-bottom-decoration">
-      <g-image alt="Example image" src="/uploads/home-1.jpg" width="1440" height="100" fit="cover"/>
+      <g-image alt="Example image" src="~/assets/images/home-1.jpg" width="1440"/>
     </figure>
 
     <section class="home-section-1">
@@ -20,12 +20,12 @@
         </p>
       </div>
       <div class="section-image">
-        <img src="/uploads/home-2.jpg" alt="" />
+        <g-image src="~/assets/images/home-2.jpg" alt="" />
       </div>
     </section>
 
     <figure class="has-top-decoration">
-      <g-image alt="Example image" src="/uploads/home-3.jpg" />
+      <g-image alt="Example image" src="~/assets/images/home-3.jpg" />
     </figure>
 
     <section class="home-section-2">
@@ -39,7 +39,7 @@
 
     <section class="home-section-3">
       <div class="section-image">
-        <img src="/uploads/home-4.jpg" alt="" />
+        <g-image src="~/assets/images/home-4.jpg" alt="" />
       </div>
       <div class="section-content">
         <p class="lead">
@@ -65,7 +65,7 @@
         gestion complète de votre projet.
       </p>
 
-      <g-image alt="Example image" src="/uploads/home-5.jpg" />
+      <g-image alt="Example image" src="~/assets/images/home-5.jpg" />
 
       <p>
         De la conception à la réception de chantier, nous souhaitons que la
@@ -79,12 +79,12 @@
     </section>
 
     <figure class="has-bottom-decoration">
-      <g-image alt="Example image" src="/uploads/home-6.jpg" />
+      <g-image alt="Example image" src="~/assets/images/home-6.jpg" />
     </figure>
 
     <section class="home-section-5">
       <div class="section-image">
-        <g-image alt="Example image" src="/uploads/home-7.jpg" />
+        <g-image alt="Example image" src="~/assets/images/home-7.jpg" />
       </div>
 
       <div class="section-content">

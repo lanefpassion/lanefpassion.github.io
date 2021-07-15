@@ -50,7 +50,7 @@
     </section>
 
     <figure class="alignwide mt-4">
-      <g-image src="/uploads/contact_bd.jpg" width="1440" />
+      <g-image src="~/assets/images/contact_bd.jpg" width="1440" />
     </figure>
   </Layout>
 </template>
