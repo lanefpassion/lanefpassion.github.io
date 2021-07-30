@@ -23,8 +23,8 @@
     "phone": "02 32 10 27 27"
   },
   "notification": {
-    "titre": "Information ouverture",
-    "message": "Bonjour nous avons le plaisir de vous annoncer la réouverture de notre showroom",
-    "active": false
+    "titre": "Fermeture",
+    "message": "Notre showroom sera fermé du 2 au 15 août pour congés. Réouverture le 16 août aux horaires habituelles. ",
+    "active": true
   }
 }
