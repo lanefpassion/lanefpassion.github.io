@@ -150,6 +150,10 @@ body {
   justify-content: space-between;
 }
 
+.footer__inner {
+  flex-direction: column;
+}
+
 .menu-toggle {
   position: relative;
   z-index: 9000;
@@ -201,5 +205,11 @@ body {
   text-align: center;
   max-width: 1040px;
   margin: auto;
+}
+
+@media (min-width: 40rem) {
+  .footer__inner {
+    flex-direction: row;
+  }
 }
 </style>
