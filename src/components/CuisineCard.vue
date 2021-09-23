@@ -33,7 +33,6 @@ export default {
   color: var(--light-color);
 }
 .cuisine-card__content {
-  opacity: 0;
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -42,15 +41,10 @@ export default {
   padding: 2rem;
   align-items: center;
   justify-content: center;
-  background: rgba(0, 0, 0, 0.8);
-  transform: scale(0.8);
+  background: rgba(0, 0, 0, 0.6);
   transition: all 300ms ease;
   text-decoration: none;
   text-align: center;
-}
-.cuisine-card__content:hover {
-  opacity: 1;
-  transform: scale(1);
 }
 
 .cuisine-card__title,
@@ -64,5 +58,16 @@ export default {
   width: 80px;
   height: 2px;
   background: var(--light-color);
+}
+
+@media (min-width: 40rem) {
+  .cuisine-card__content {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  .cuisine-card__content:hover {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 </style>
