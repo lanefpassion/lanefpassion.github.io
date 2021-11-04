@@ -1,14 +1,16 @@
 ---
 title: Cuisine de chef proche Rouen
 subtitle: Une cuisine équipée pour des résultats professionnels à la maison
-excerpt: ''
+excerpt: Une cuisine contemporaine entièrement équipée pour des résultats professionnels
+  à la maison.
 image_cover: "/uploads/5e7a9972-copie.jpg"
 
 ---
+![](/uploads/5e7a9972-copie.jpg)
 
 ## Moderne et design
 
-Pour la de cette cuisine implantée proche de Rouen en Normandie, nous avons mêlé des matériaux nobles de réalisation.
+Pour la réalisation de cette cuisine implantée proche de Rouen en Normandie, nous avons mêlé des matériaux nobles.
 
 L'inox satiné, le chêne laqué noir et un plan de travail en Bianco Nuvola pour un résultat moderne et design.
 
