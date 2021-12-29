@@ -1,4 +1,31 @@
 ---
 label: Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Titre de la publication
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Excerpt
+  description: Extrait qui apparait dans la liste des articles
+- name: image_cover
+  type: file
+  config:
+    maxSize: 64
+  label: Image Cover
+  description: Image de couverture. Apparait dans la liste des articles
