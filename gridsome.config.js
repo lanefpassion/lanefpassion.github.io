@@ -11,6 +11,14 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        typeName: "BlogPost",
+        resolveAbsolutePaths: true,
+        path: "./content/blog/**/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         typeName: "CuisinePost",
         resolveAbsolutePaths: true,
         path: "./content/cuisines/**/*.md",
@@ -32,6 +40,7 @@ module.exports = {
   },
   templates: {
     CuisinePost: "/cuisines/:title",
+    BlogPost: "/blog/:title",
   },
   icon: {
     favicon: {

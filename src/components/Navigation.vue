@@ -17,6 +17,9 @@
       <li class="menu__item">
         <g-link class="menu__link" to="/partenaires/">Nos partenaires</g-link>
       </li>
+      <!-- <li class="menu__item">
+        <g-link class="menu__link" to="/blog/">Blog</g-link>
+      </li> -->
       <li class="menu__item">
         <g-link class="menu__link is-accent" to="/contact/">Rendez-vous</g-link>
       </li>
