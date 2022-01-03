@@ -23,8 +23,8 @@
     "phone": "02 32 10 27 27"
   },
   "notification": {
-    "titre": "Horaires",
-    "message": "Notre showroom fermera exceptionnellement à 12h, le 24 et le 31 décembre. \nJoyeuses fêtes de fin d'année !",
-    "active": true
+    "titre": "",
+    "message": "",
+    "active": false
   }
 }
