@@ -39,8 +39,20 @@ module.exports = {
     // Exclude legal pages (terms, policies, etc)
     {
       use: '@gridsome/plugin-sitemap',
+      exclude: ['/mentions-legales'],
       options: {
-        exclude: ['/404']
+        '/actualites/*': {
+          changefreq: 'weekly',
+          priority: 0.5,
+        },
+        '/cuisines/*': {
+          changefreq: 'monthly',
+          priority: 0.6,
+        },
+        '/partenaires/*': {
+          changefreq: 'monthly',
+          priority: 0.7,
+        },
       }
     }
   ],
