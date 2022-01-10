@@ -3,7 +3,7 @@ title: Trois raisons de réaliser votre cuisine sur-mesure
 subtitle: ''
 excerpt: ''
 image_cover: ''
-date: 2022-01-10
+date: 2022-01-07T00:00:00+01:00
 ---
 La conception d’une **cuisine sur mesure** présente de multiples avantages notamment en matière d’optimisation de l’espace, de fonctionnalité et de personnalisation. Au-delà du design et de l’ergonomie, ce type de prestation vous offre une liberté totale pour allier à la fois créativité, qualité et exigence afin d’acquérir une cuisine unique. Venez découvrir les atouts de la cuisine sur mesure chez Lanef Passion, **cuisiniste** proche de **Rouen**.
 

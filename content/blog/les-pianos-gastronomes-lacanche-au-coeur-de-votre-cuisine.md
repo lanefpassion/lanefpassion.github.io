@@ -3,7 +3,7 @@ title: Les Pianos Gastronomes Lacanche au coeur de votre cuisine
 subtitle: ''
 excerpt: ''
 image_cover: ''
-date: 2022-01-10
+date: 2022-01-10T00:00:00+01:00
 ---
 **Lanef Passion**, **cuisiniste** de renom située proche de **Rouen**, porte une attention particulière à la sélection de ses partenaires afin de proposer un électroménager haut de gamme pour la conception de **cuisine luxueuse**. C’est pourquoi, le concepteur de **cuisines sur mesure** a fait le choix de collaborer depuis maintenant plusieurs décennies avec la marque Lacanche fabricant de Pianos Gastronomes alliant technicité, élégance et authenticité. Vous découvrirez dans cet article, l’essentiel de la marque et de ses produits d’exception.
 
