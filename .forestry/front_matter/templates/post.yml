@@ -30,5 +30,6 @@ fields:
   label: Image Cover
   description: Image de couverture. Apparait dans la liste des articles
 pages:
+- content/blog/les-pianos-gastronomes-lacanche-au-coeur-de-votre-cuisine.md
 - content/blog/trois-raisons-de-realiser-votre-cuisine-sur-mesure.md
 - content/blog/un-article-de-blog-avec-une-image-mis-en-avant.md
