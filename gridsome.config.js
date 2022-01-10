@@ -6,6 +6,7 @@
 
 module.exports = {
   siteName: "Lanef Passion",
+  siteUrl: 'https://www.lanefpassion.fr',
   titleTemplate: "%s - Lanef Passion",
   plugins: [
     {
@@ -32,6 +33,16 @@ module.exports = {
         path: "./content/partenaires/**/*.md",
       },
     },
+    // Sitemap
+    // https://gridsome.org/plugins/@gridsome/plugin-sitemap
+    // yarn add @gridsome/plugin-sitemap
+    // Exclude legal pages (terms, policies, etc)
+    {
+      use: '@gridsome/plugin-sitemap',
+      options: {
+        exclude: ['/404']
+      }
+    }
   ],
   transformers: {
     remark: {
