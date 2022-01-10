@@ -40,7 +40,7 @@ module.exports = {
   },
   templates: {
     CuisinePost: "/cuisines/:title",
-    BlogPost: "/blog/:title",
+    BlogPost: "/actualites/:title",
   },
   icon: {
     favicon: {
