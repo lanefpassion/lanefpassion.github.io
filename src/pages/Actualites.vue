@@ -1,7 +1,8 @@
 <template>
   <Layout>
     <header class="content__header">
-      <h1>Blog</h1>
+      <h1>Actualités</h1>
+      <p class="lead">Retrouvez nos dernières actualités, nos conseils et focus électroménagers.</p>
     </header>
 
     <section v-if="posts" class="blog">
@@ -14,7 +15,7 @@
 
 <page-query>
 query Posts {
-  allBlogPost{
+  allBlogPost(sortBy: "date", order: DESC){
     edges {
       node {
         id
