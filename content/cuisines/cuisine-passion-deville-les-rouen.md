@@ -29,6 +29,10 @@ L’ensemble est surplombé d’un plafond filtrant réalisé sur mesure par Lan
 
 Venez découvrir cette réalisation d’exception dans notre showroom de Déville lès Rouen.
 
-![](/uploads/5e7a8659.jpg)![](/uploads/5e7a8713.jpg)
+![](/uploads/5e7a8659.jpg)
 
-![](/uploads/5e7a8687.jpg)![](/uploads/5e7a8667.jpg)
+![](/uploads/5e7a8713.jpg)
+
+![](/uploads/5e7a8687.jpg)
+
+![](/uploads/5e7a8667.jpg)
