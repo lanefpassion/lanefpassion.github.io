@@ -8,11 +8,13 @@ excerpt: Lanef Passion, cuisiniste de renom située proche de Rouen, porte une 
   décennies avec la marque Lacanche fabricant de Pianos Gastronomes alliant technicité,
   élégance et authenticité. Vous découvrirez dans cet article, l’essentiel de
   la marque et de ses produits d’exception.
-image_cover: "/uploads/lanef-passion-lacanche-bleu-piano.jpg"
+image_cover: "/uploads/sans-titre.png"
 date: 2022-01-10T00:00:00.000+01:00
 
 ---
 **Lanef Passion**, **cuisiniste** de renom située proche de **Rouen**, porte une attention particulière à la sélection de ses partenaires afin de proposer un électroménager haut de gamme pour la conception de **cuisine luxueuse**. C’est pourquoi, le concepteur de **cuisines sur mesure** a fait le choix de collaborer depuis maintenant plusieurs décennies avec la marque Lacanche fabricant de Pianos Gastronomes alliant technicité, élégance et authenticité. Vous découvrirez dans cet article, l’essentiel de la marque et de ses produits d’exception.
+
+![](/uploads/lanef-passion-lacanche-bleu.jpg)
 
 ## Une marque historique
 
@@ -36,6 +38,8 @@ Acier, inox, cuivre, laiton, fonte, beaucoup de matières nobles sont utilisé
 Les parures de couleur émaillées réalisées spécialement pour chaque commande, dans un atelier dédié, apportent la finition colorée inaltérable et lumineuse.
 
 Fabriqués à partir de matériaux et composants essentiellement métalliques tels que l’acier, l’acier inoxydable, l’acier émaillé, le cuivre, le laiton, la fonte, la fonte d’aluminium, les “Pianos Gastronomes” sont recyclables à plus de 90%. Lacanche accorde une grande importance à la disponibilité des pièces et composants de chaque **piano de cuisson** afin d’assurer une maintenance et une utilisation optimale dans le temps.
+
+![](/uploads/table-induction-cluny-armor.jpg)
 
 ### **Les modèles**
 
