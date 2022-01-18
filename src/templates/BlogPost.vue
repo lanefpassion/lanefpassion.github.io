@@ -12,7 +12,7 @@
     <section class="entry__content" v-html="post.content" />
 
     <footer class="entry__footer">
-      <g-link to="/blog" class="button button-secondary">
+      <g-link to="/actualites" class="button button-secondary">
         ← Revenir aux articles
       </g-link>
     </footer>
