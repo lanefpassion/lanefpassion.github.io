@@ -7,7 +7,7 @@ excerpt: La conception d’une cuisine sur mesure présente de multiples avanta
   totale pour allier à la fois créativité, qualité et exigence afin d’acquérir
   une cuisine unique. Découvrez dans cet articles tous les bénéfices d'une cuisine
   sur mesure réalisée par Lanef Passion !
-image_cover: "/uploads/photo-cuisine-showroom-lanef-pasison.png"
+image_cover: "/uploads/5e7a8661.jpg"
 date: 2022-01-07T00:00:00.000+01:00
 
 ---
