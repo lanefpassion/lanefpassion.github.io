@@ -12,13 +12,13 @@ image_cover: "/uploads/sans-titre.png"
 date: 2022-01-10T00:00:00.000+01:00
 
 ---
-**Lanef Passion**, **cuisiniste** de renom située proche de **Rouen**, porte une attention particulière à la sélection de ses partenaires afin de proposer un électroménager haut de gamme pour la conception de **cuisine luxueuse**. C’est pourquoi, le concepteur de **cuisines sur mesure** a fait le choix de collaborer depuis maintenant plusieurs décennies avec la marque Lacanche fabricant de Pianos Gastronomes alliant technicité, élégance et authenticité. Vous découvrirez dans cet article, l’essentiel de la marque et de ses produits d’exception.
+**Lanef Passion**, **cuisiniste** de renom situé proche de **Rouen**, porte une attention particulière à la sélection de ses partenaires afin de proposer un électroménager haut de gamme pour la conception de **cuisine luxueuse**. C’est pourquoi, le concepteur de **cuisines sur mesure** a fait le choix de collaborer depuis maintenant plusieurs décennies avec la marque Lacanche fabricant de Pianos Gastronomes alliant technicité, élégance et authenticité. Vous découvrirez dans cet article, l’essentiel de la marque et de ses produits d’exception.
 
 ![](/uploads/lanef-passion-lacanche-bleu.jpg)
 
 ## Une marque historique
 
-Fabriquées en Côte-d'Or, dans un petit village dont elles portent le nom, ces **cuisinières haut de gamme** sont le reflet de la tradition alliée au travail du fer de la région depuis la fin du XVIIIe siècle. Directement inspirés des fourneaux utilisés par les chefs cuisiniers, les **Pianos Gastronomes Lacanche** sont le reflet du **haut de gamme** et de la créativité tout en étant à la recherche perpétuelle de technologies sophistiquées.
+Fabriquées en Côte-d'Or, dans un petit village dont elles portent le nom, ces **cuisinières haut de gamme** sont le reflet de la tradition alliée au travail du fer de la région depuis la fin du XVIIIe siècle. Directement inspirés des fourneaux utilisés par les chefs cuisiniers, les **Pianos Gastronomes Lacanche** jouent leur partition dans le **haut de gamme** et de la créativité tout en étant à la recherche perpétuelle de technologies sophistiquées.
 
 Forte de son histoire, de son expertise et d’une renommée internationale acquise auprès d’un public averti, la marque reste fidèle à ses inspirations et à sa vocation au service de la cuisine et de l’art culinaire. L’état français lui décerne le label “_Entreprise du Patrimoine Vivant_” pour ses compétences artisanales et industrielles d’excellence.
 
