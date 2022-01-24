@@ -14,7 +14,7 @@ date: 2022-01-10T00:00:00.000+01:00
 ---
 **Lanef Passion**, **cuisiniste** de renom situé proche de **Rouen**, porte une attention particulière à la sélection de ses partenaires afin de proposer un électroménager haut de gamme pour la conception de **cuisine luxueuse**. C’est pourquoi, le concepteur de **cuisines sur mesure** a fait le choix de collaborer depuis maintenant plusieurs décennies avec la marque Lacanche fabricant de Pianos Gastronomes alliant technicité, élégance et authenticité. Vous découvrirez dans cet article, l’essentiel de la marque et de ses produits d’exception.
 
-![](/uploads/lanef-passion-lacanche-bleu.jpg)
+![Piano gastronome de la marque lacanche, gamme moderne, table de cuisson induction, four électrique, bleu](/uploads/lanef-passion-lacanche-bleu.jpg "Piano gastronome Lacanche bleu")
 
 ## Une marque historique
 
@@ -27,7 +27,7 @@ Forte de son histoire, de son expertise et d’une renommée internationale acq
 Lacanche associe tradition et modernité pour permettre aux chefs et amateurs de cuisine d'exprimer leurs talents. Cette vocation au service de l'art culinaire trouve son inspiration en préservant les principes et les valeurs qui ont construit sa réputation: simplicité, authenticité, respect de la matière, des Hommes et du temps. Un **fourneau Lacanche** est intemporel et construit pour durer.
 
 Chaque Piano Gastronome est réalisé à l’unité, sur commande, à partir d’une grande variété de modèles, d’options et de finitions. Véritable instrument culinaire, le piano de cuisson Lacanche va dorénavant prendre une place essentielle au cœur de la cuisine.  
-Chaque modèle, dont le nom - Cluny, Chassagne, Chambertin... - fleure bon l’alliance des mets fins et des grands crus de Bourgogne, illustre la virtuosité et l’exigence des maîtres de forge qui ont construit la réputation de la marque. Venez découvrir les modèles d’exposition de la marque chez votre **cuisiniste Lanef Passion** à **Déville lès Rouen**
+Chaque modèle, dont le nom - Cluny, Chassagne, Chambertin... - fleure bon l’alliance des mets fins et des grands crus de Bourgogne, illustre la virtuosité et l’exigence des maîtres de forge qui ont construit la réputation de la marque. Venez découvrir les modèles d’exposition de la marque chez votre **cuisiniste Lanef Passion** à [**Déville lès Rouen**](https://www.google.com/maps/place/Lanef+Passion/@49.4558882,1.0549078,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e758d3e25c15:0x70fc0b24bb9f6ffb!8m2!3d49.4558912!4d1.0571112 "Showroom Lanef Passion")
 
 ## La fabrication Lacanche
 
@@ -39,7 +39,7 @@ Les parures de couleur émaillées réalisées spécialement pour chaque co
 
 Fabriqués à partir de matériaux et composants essentiellement métalliques tels que l’acier, l’acier inoxydable, l’acier émaillé, le cuivre, le laiton, la fonte, la fonte d’aluminium, les “Pianos Gastronomes” sont recyclables à plus de 90%. Lacanche accorde une grande importance à la disponibilité des pièces et composants de chaque **piano de cuisson** afin d’assurer une maintenance et une utilisation optimale dans le temps.
 
-![](/uploads/table-induction-cluny-armor.jpg)
+![Piano Gastronome de la marque Lacanche, gamme moderne, table de cuisson induction, finition bleu, habillage arrière en inox.](/uploads/table-induction-cluny-armor.jpg "Piano Gastronome Lacanche")
 
 ### **Les modèles**
 
@@ -61,7 +61,7 @@ Les fours des pianos de cuisson Lacanche sont particulièrement performants. Le
 
 Pour les modèles disposant d'une armoire, elle peut être équipée afin de devenir une armoire basse température afin de maintenir les plats au chaud, cuire à basse température pour préserver le moelleux des préparations ou encore préchauffer des assiettes avant de servir.
 
-Besoin d’être conseillé sur le choix de votre Piano Lacanche ? Chez **Lanef Passion** nous vous recevons au showroom et vous conseillons sur les options les plus adaptées à vos envies et habitudes de cuisson.
+Besoin d’être conseillé sur le choix de votre Piano Lacanche ? Chez [**Lanef Passion**](https://www.lanefpassion.fr/ "Page d'accueil du site internet") nous vous recevons au showroom et vous conseillons sur les options les plus adaptées à vos envies et habitudes de cuisson.
 
 #### Table de cuisson
 
@@ -73,7 +73,7 @@ L’induction est la dernière évolution adoptée comme solution de chauffe 
 
 Les tables de cuisson des Pianos Lacanche sont modulables ce qui vous permet, en fonction des modèles, de faire votre choix entre une multitude d'options : plaque coup de feu, friteuse, gril, plancha, polycuiseur... Pour toute demande d’information, rendez-vous chez **Lanef Passion** revendeur agréé de la marque Lacanche.
 
-![](/uploads/cuiseur-pates.jpg)
+![Table de cuisson d'un Piano Gastronome Lacanche : deux feux gaz, une plaque coup de feu et une option polycuiseur](/uploads/cuiseur-pates.jpg "Table de cuisson d'un piano Gastronome Lacanche")
 
 ## **L’implantation d’un Piano Gastronome**
 
@@ -83,4 +83,4 @@ Intemporels, avec leurs lignes sobres et originales, les pianos Lacanche trouven
 
 Cette marque française propose également des hottes adaptées à votre Piano de Cuisson vous permettant de maintenir une ligne esthétique classique et/ou d'y ajouter une Salamandre pour exprimer tous vos talents culinaires.
 
-Vous rêvez d’un Piano Gastronome Lacanche ? Rendez-vous chez **Lanef Passion,** votre concepteur de **cuisine de luxe à Rouen**.
+Vous rêvez d’un Piano Gastronome Lacanche ? Rendez-vous chez [**Lanef Passion**](https://www.lanefpassion.fr/contact/ "Page contact")**,** votre concepteur de **cuisine de luxe à Rouen**.
