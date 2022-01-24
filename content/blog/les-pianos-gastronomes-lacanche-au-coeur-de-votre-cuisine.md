@@ -8,7 +8,7 @@ excerpt: Lanef Passion, cuisiniste de renom située proche de Rouen, porte une 
   décennies avec la marque Lacanche fabricant de Pianos Gastronomes alliant technicité,
   élégance et authenticité. Vous découvrirez dans cet article, l’essentiel de
   la marque et de ses produits d’exception.
-image_cover: "/uploads/sans-titre.png"
+image_cover: "/uploads/lanef-passion-lacanche-piano.jpg"
 date: 2022-01-10T00:00:00.000+01:00
 
 ---
