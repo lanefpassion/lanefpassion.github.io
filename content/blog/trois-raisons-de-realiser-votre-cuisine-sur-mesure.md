@@ -11,7 +11,8 @@ image_cover: "/uploads/photo-cuisine-showroom-lanef-pasison.png"
 date: 2022-01-07T00:00:00.000+01:00
 
 ---
-La conception d’une **cuisine sur mesure** présente de multiples avantages notamment en matière d’optimisation de l’espace, de fonctionnalité et de personnalisation. Au-delà du design et de l’ergonomie, ce type de prestation vous offre une liberté totale pour allier à la fois créativité, qualité et exigence afin d’acquérir une cuisine unique. Venez découvrir les atouts de la cuisine sur mesure chez Lanef Passion, [**cuisiniste** proche de **Rouen**.](https://www.google.com/maps/place/Lanef+Passion/@49.4558882,1.0549078,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e758d3e25c15:0x70fc0b24bb9f6ffb!8m2!3d49.4558912!4d1.0571112 "Google map")
+La conception d’une **cuisine sur mesure** présente de multiples avantages notamment en matière d’optimisation de l’espace, de fonctionnalité et de personnalisation. Au-delà du design et de l’ergonomie, ce type de prestation vous offre une liberté totale pour allier à la fois créativité, qualité et exigence afin d’acquérir une cuisine unique. Venez découvrir les atouts de la cuisine sur mesure chez Lanef Passion, 
+[cuisiniste** proche de **Rouen.](https://www.google.com/maps/place/Lanef+Passion/@49.4558882,1.0549078,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e758d3e25c15:0x70fc0b24bb9f6ffb!8m2!3d49.4558912!4d1.0571112 "Google Maps")
 
 ![Cuisine sur mesure Lanef Passion : L’inox poli, le chêne naturel, le chêne laqué noir et un plan de travail en Bianco Nuvola pour un résultat moderne et design. Un ilôt multifonction : Élément central, il accueille une table de cuisson, un espace de préparation, de multiples rangements aménagés et un espace repas convivial. Entièrement sur mesure, il est notre signature : un châssis en inox poli habillé de façades en bois.](/uploads/photo-cuisine-showroom-lanef-pasison.png "Cuisine sur mesure Lanef Passion")
 
@@ -25,7 +26,7 @@ Opter pour une cuisine sur mesure vous permet d’obtenir un espace en adéquat
 
 ## **Une cuisine unique dans les moindres détails**
 
-Faire le choix d’une cuisine sur mesure vous offre l’opportunité de créer une atmosphère unique. Vous obtiendrez un modèle que vous ne retrouverez nulle part ailleurs et un espace exceptionnel qui vous ressemble. Ce type de conception vous permet de laisser libre court à votre imagination, sans aucune limite de création et l’opportunité d’oser toutes les audaces. 
+Faire le choix d’une cuisine sur mesure vous offre l’opportunité de créer une atmosphère unique. Vous obtiendrez un modèle que vous ne retrouverez nulle part ailleurs et un espace exceptionnel qui vous ressemble. Ce type de conception vous permet de laisser libre court à votre imagination, sans aucune limite de création et l’opportunité d’oser toutes les audaces.
 
 Ainsi, vous obtenez une liberté infinie en matière de design. Grâce à l’abondance des matériaux existants, les possibilités sont multiples pour des résultats aussi somptueux les uns que les autres et l'obtention d’une **cuisine luxueuse** : bois naturel, minéral, inox, finition brillante, laquée, mate... Un large éventail de coloris s’offre également à vous tant sur les matériaux naturels que synthétiques vous permettant de répondre à tous vos désirs. Soyez audacieux et laissez vous porter par les innombrables possibilités que le sur-mesure vous offre.
 
@@ -33,4 +34,4 @@ Ainsi, vous obtenez une liberté infinie en matière de design. Grâce à l�
 
 ***
 
-[**Lanef Passion**](https://www.lanefpassion.fr/contact/ "Page contact"), concepteur de **cuisines** indoor et outdoor **haut de gamme**, réalise uniquement des projets sur-mesures afin de vous offrir l’excellence en répondant à vos moindres désirs. Venez découvrir son savoir-faire unique dans son showroom situé à **Déville les Rouen.**
+[**Lanef Passion**](https://www.lanefpassion.fr/contact/ "Prendre rendez-vous chez Lanef Passion"), concepteur de **cuisines** indoor et outdoor **haut de gamme**, réalise uniquement des projets sur-mesures afin de vous offrir l’excellence en répondant à vos moindres désirs. Venez découvrir son savoir-faire unique dans son showroom situé à **Déville les Rouen.**
