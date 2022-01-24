@@ -27,7 +27,7 @@ Forte de son histoire, de son expertise et d’une renommée internationale acq
 Lacanche associe tradition et modernité pour permettre aux chefs et amateurs de cuisine d'exprimer leurs talents. Cette vocation au service de l'art culinaire trouve son inspiration en préservant les principes et les valeurs qui ont construit sa réputation: simplicité, authenticité, respect de la matière, des Hommes et du temps. Un **fourneau Lacanche** est intemporel et construit pour durer.
 
 Chaque Piano Gastronome est réalisé à l’unité, sur commande, à partir d’une grande variété de modèles, d’options et de finitions. Véritable instrument culinaire, le piano de cuisson Lacanche va dorénavant prendre une place essentielle au cœur de la cuisine.  
-Chaque modèle, dont le nom - Cluny, Chassagne, Chambertin... - fleure bon l’alliance des mets fins et des grands crus de Bourgogne, illustre la virtuosité et l’exigence des maîtres de forge qui ont construit la réputation de la marque. Venez découvrir les modèles d’exposition de la marque chez votre **cuisiniste Lanef Passion** à [**Déville lès Rouen**](https://www.google.com/maps/place/Lanef+Passion/@49.4558882,1.0549078,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e758d3e25c15:0x70fc0b24bb9f6ffb!8m2!3d49.4558912!4d1.0571112 "Showroom Lanef Passion")
+Chaque modèle, dont le nom - Cluny, Chassagne, Chambertin... - fleure bon l’alliance des mets fins et des grands crus de Bourgogne, illustre la virtuosité et l’exigence des maîtres de forge qui ont construit la réputation de la marque. Venez découvrir les modèles d’exposition de la marque chez votre **cuisiniste Lanef Passion** à [**Déville lès Rouen**](https://www.google.com/maps/place/Lanef+Passion/@49.4558882,1.0549078,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e758d3e25c15:0x70fc0b24bb9f6ffb!8m2!3d49.4558912!4d1.0571112 "Google Maps")
 
 ## La fabrication Lacanche
 
@@ -61,7 +61,7 @@ Les fours des pianos de cuisson Lacanche sont particulièrement performants. Le
 
 Pour les modèles disposant d'une armoire, elle peut être équipée afin de devenir une armoire basse température afin de maintenir les plats au chaud, cuire à basse température pour préserver le moelleux des préparations ou encore préchauffer des assiettes avant de servir.
 
-Besoin d’être conseillé sur le choix de votre Piano Lacanche ? Chez [**Lanef Passion**](https://www.lanefpassion.fr/ "Page d'accueil du site internet") nous vous recevons au showroom et vous conseillons sur les options les plus adaptées à vos envies et habitudes de cuisson.
+Besoin d’être conseillé sur le choix de votre Piano Lacanche ? Chez [**Lanef Passion**](https://www.lanefpassion.fr/ "Site Internet Lanef Passion") nous vous recevons au showroom et vous conseillons sur les options les plus adaptées à vos envies et habitudes de cuisson.
 
 #### Table de cuisson
 
@@ -83,4 +83,4 @@ Intemporels, avec leurs lignes sobres et originales, les pianos Lacanche trouven
 
 Cette marque française propose également des hottes adaptées à votre Piano de Cuisson vous permettant de maintenir une ligne esthétique classique et/ou d'y ajouter une Salamandre pour exprimer tous vos talents culinaires.
 
-Vous rêvez d’un Piano Gastronome Lacanche ? Rendez-vous chez [**Lanef Passion**](https://www.lanefpassion.fr/contact/ "Page contact")**,** votre concepteur de **cuisine de luxe à Rouen**.
+Vous rêvez d’un Piano Gastronome Lacanche ? Rendez-vous chez [**Lanef Passion**](https://www.lanefpassion.fr/contact/ "Prendre rendez-vous chez Lanef Passion")**,** votre concepteur de **cuisine de luxe à Rouen**.
