@@ -73,7 +73,7 @@ L’induction est la dernière évolution adoptée comme solution de chauffe 
 
 Les tables de cuisson des Pianos Lacanche sont modulables ce qui vous permet, en fonction des modèles, de faire votre choix entre une multitude d'options : plaque coup de feu, friteuse, gril, plancha, polycuiseur... Pour toute demande d’information, rendez-vous chez **Lanef Passion** revendeur agréé de la marque Lacanche.
 
-**![](/uploads/cuiseur-pates.jpg)**
+![](/uploads/cuiseur-pates.jpg)
 
 ## **L’implantation d’un Piano Gastronome**
 
