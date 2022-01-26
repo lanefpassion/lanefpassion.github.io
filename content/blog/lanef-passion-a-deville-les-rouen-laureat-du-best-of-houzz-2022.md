@@ -17,7 +17,7 @@ _La communauté Houzz récompense les professionnels de la rénovation et de l�
 
 ![](/uploads/fr_boh_ig_feedpost_service_illust.png)
 
-**Best of Houzz Service 2022**
+## **Best of Houzz Service 2022**
 
 **Lanef Passion** situé proche de **Rouen** a remporté le prix « Best of Houzz » dans la catégorie **Service** sur[ Houzz](http://www.houzz.fr), la plateforme de référence dédiée à la décoration, l'aménagement et la rénovation. **Le concepteur de cuisine luxueuse** qui opère depuis plus de 15 ans pour les particuliers passionnés**,** a été élu par les millions de particuliers engagés qui constituent la communauté Houzz, et ce, parmi plus de 2,7 millions de professionnels du secteur.
 
@@ -29,12 +29,12 @@ Le badge « Best of Houzz 2022 » s’affichera sur le profil des lauréats, té
 
 Suivez **Lanef Passion** sur [Houzz](https://www.houzz.fr/pro/webuser-110864778/lanef-passion "Houzz Lanef Passion") **!**
 
-**À propos de Lanef Passion**
+## **À propos de Lanef Passion**
 
 **Lanef Passion** est un concepteur de **cuisine indoor, outdoor** et de **buanderie d’exception.** Chacun de ses projets est réalisé **sur mesure** afin de vous offrir l’excellence en répondant à vos moindres désirs. Le prestige et la crédibilité de Lanef Passion reposent sur la gestion complète de votre projet. Son histoire a commencé avec les cuisines professionnelles : plusieurs décennies d'expérience lui ont apporté le souci de l'implantation et de l'ergonomie, l'amour des matériaux nobles et le goût de l'innovation. Le **cuisiniste** réalise ses **cuisines aménagées sur mesure** afin de vous offrir tous les avantages d'une cuisine professionnelle pensée et adaptée pour vous et votre cadre de vie. Venez découvrir son savoir-faire unique dans son showroom à Déville lès Rouen !
 
 _“Les détails font la perfection et la perfection n'est pas un détail.”_
 
-**À propos de Houzz**
+## **À propos de Houzz**
 
 Houzz est la plateforme de référence pour la décoration, l’aménagement et la rénovation de la maison. Sur Houzz, les propriétaires peuvent trouver tout ce dont ils ont besoin pour décorer et aménager leur maison de A à Z. Houzz est la solution pour trouver l’inspiration, chercher et engager des professionnels, et demander conseil pour mener ses projets à bien. Pour les professionnels de la maison, Houzz Pro propose une solution tout-en-un qui leur permet d’exposer leurs meilleures réalisations, de collaborer et de communiquer avec leurs clients actuels et potentiels. La communauté Houzz rassemble des millions de propriétaires, de passionnés de décoration et de professionnels de la maison à travers le monde.
