@@ -11,8 +11,7 @@ excerpt: Lanef Passion situé proche de Rouen a remporté le prix « Best of Hou
 image_cover: "/uploads/fr_boh_ig_feedpost_service_award.png"
 
 ---
-
-![](/uploads/fr_boh_ig_feedpost_service_illust.png)
+![Lanef Passion Best of Houzz 2022](/uploads/fr_boh_ig_feedpost_service_illust.png "Lanef Passion Best of Houzz 2022")
 
 La communauté Houzz récompense les professionnels de la rénovation et de l’aménagement pour la qualité de leurs services et la popularité de leurs photos
 
