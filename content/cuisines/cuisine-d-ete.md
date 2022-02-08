@@ -6,6 +6,8 @@ excerpt: ''
 image_cover: "/uploads/0o2a4327.jpg"
 
 ---
+![](/uploads/0o2a4327.jpg)
+
 ### **La praticité de la conception**
 
 La fonctionnalité est le maître mot de la réalisation de cette cuisine outdoor
@@ -20,5 +22,4 @@ Le mobile est réalisé avec un châssis en inox dont les façades ont été laq
 
 Le mobile est équipé d’une plancha professionnelle directement intégré au plan de travail. L’ensemble est accompagné d’un Big Green Egg, un véritable four polyvalent d’extérieur vous permettant de réaliser tous types de cuisson. Ces équipements vous permettent de cuisiner comme bon vous semble aussi bien en été qu’en hiver.
 
-  
 ![](/uploads/0o2a4467.jpg)
