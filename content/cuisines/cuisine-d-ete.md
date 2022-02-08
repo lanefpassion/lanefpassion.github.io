@@ -2,7 +2,8 @@
 title: Cuisine d’été
 subtitle: Cuisinez en toute liberté, en plein air pour être au plus proche de la nature
   !
-excerpt: ''
+excerpt: Cuisinez en toute liberté, en plein air pour être au plus proche de la nature
+  !
 image_cover: "/uploads/0o2a4327.jpg"
 
 ---
