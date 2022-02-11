@@ -15,7 +15,7 @@ La fonctionnalité est le maître mot de la réalisation de cette cuisine outdoo
 
 Cuisiner en extérieur vous offre la possibilité d’être au plus proche de la nature pour partager des moments conviviaux entre amis ou en famille. Nous avons pensé nos cuisines outdoors afin qu’elles vous offrent la possibilité de vous déplacer pour être au plus proche de votre entourage. Grâce à ses roulettes, elle se manipule avec facilité et légèreté afin d’être déplacée au gré de vos envies.
 
-Le mobile est réalisé avec un châssis en inox dont les façades ont été laquées en noires. Le plan de travail est en Granit Marinace d’origine brésilien qui présente une multitude d’empreintes de pierres marines fossilisées. Son agencement est optimisé avec l’intégration de deux grands tiroirs de rangement et un évier intégré à fleur de plan
+Le module est réalisé avec un châssis en inox dont les façades ont été laquées en noir. Le plan de travail est en Granit Marinace d’origine brésilienne qui présente une multitude d’empreintes de pierres marines fossilisées. Son agencement est optimisé avec l’intégration de deux grands tiroirs de rangement et un évier intégré à fleur de plan
 
 ![](/uploads/0o2a4391.jpg)
 
