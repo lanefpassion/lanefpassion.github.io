@@ -40,6 +40,7 @@ fields:
   label: Image Cover
   description: Image de couverture. Apparait dans la liste des articles
 pages:
+- content/blog/l-inox-au-coeur-de-la-cuisine.md
 - content/blog/lanef-passion-a-deville-les-rouen-laureat-du-best-of-houzz-2022.md
 - content/blog/les-pianos-gastronomes-lacanche-au-coeur-de-votre-cuisine.md
 - content/blog/pourquoi-choisir-la-marque-miele.md
