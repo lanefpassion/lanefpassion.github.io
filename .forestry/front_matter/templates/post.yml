@@ -40,6 +40,7 @@ fields:
   label: Image Cover
   description: Image de couverture. Apparait dans la liste des articles
 pages:
+- content/blog/big-green-egg-le-nec-plus-ultra-du-barbecue.md
 - content/blog/l-inox-au-coeur-de-la-cuisine.md
 - content/blog/lanef-passion-a-deville-les-rouen-laureat-du-best-of-houzz-2022.md
 - content/blog/le-plan-de-travail-ideal-pour-votre-cuisine.md
