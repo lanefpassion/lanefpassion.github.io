@@ -25,6 +25,8 @@ propriétés extrêmement isolantes, combiné aux divers autres éléments breve
 
 ## **L’EGG**
 
+![](/uploads/webversion-1w5a0961.jpg)
+
 En tant que fin gourmet, vous êtes sûr d'une chose : avec le **Big Green Egg,** votre **cuisine extérieure** sera équipée d'un kamado de la plus haute qualité. Son esthétique en fait un véritable objet design qui se mêlera facilement à toutes les ambiances extérieures.
 
 Le **Big Green Egg** vous permet non seulement de faire des grillades, mais de rôtir, fumer, et cuire lentement à l'étouffé les aliments. Car l'**EGG** n'est pas qu'un simple **barbecue**. C'est un appareil polyvalent qui permet de chauffer de 70 à 350°C vous permettant de jouer avec de multiples techniques de cuisson : griller, fumer, sauter au wok, cuire à la vapeur, rôtir ou mijoter les aliments les plus divers, rien de plus simple sur votre Big Green Egg. Des steaks d'aloyau ou faux-filets grillés au curry végétarien en passant par le pot-au-feu madrilène. Au travail avec les huîtres vapeur, le carpaccio fumé sur foin, une soupe thaï au poulet ou une quiche aux légumes bien garnie. Tout est possible ! Avec le **Big Green Egg**, c'est un monde tout nouveau qui s'ouvre à vous. Vous repousserez vos limites culinaires et vous vous étonnerez, vous et vos invités. C’est ce que **Lanef Passion** veut transmettre dans la réalisation de ses projets : offrir un espace haut de gamme et sur mesure pour vous permettre de laisser parler votre créativité culinaire !
@@ -36,6 +38,8 @@ Le **Big Green Egg** dure toute une vie. Vous pourrez cuire une grande variété
 une ambiance conviviale des plaisirs de la vie, c'est ce que vous offre le **Big Green Egg**. Avec votre famille, vos amis ou vos proches, vous dégustez les plats les plus délicieux que vous ayez jamais goûtés. C'est comme cela que naissent les moments inoubliables. N'hésitez pas à préparer vos recettes préférées ou à vous lancer dans la création d'un nouveau plat avec votre **EGG** et à partager votre expérience sur le compte instagram [**@lanefpassion**](https://www.instagram.com/lanefpassion/ "Instagram Lanef Passion") ! Les possibilités sont infinies : essayez-les toutes et laissez libre cours à votre créativité !
 
 ## **Les modes de cuisson :**
+
+![](/uploads/sans-titre-28.png)
 
 **Big Green Egg** vous offre des possibilités de cuisson infinies grâce à la combinaison de plusieurs facteurs : la céramique qui réfléchit la chaleur, créant ainsi un flux d'air qui rend les ingrédients et les plats encore plus tendres, et la circulation d'air parfaite, qui assure une cuisson uniforme à la température souhaitée. Citons encore le réglage précis à un degré près de la température qui est maintenue à la valeur fixée. Grâce aux propriétés isolantes supérieures de la céramique, les températures extérieures n'ont aucune incidence sur la température à l'intérieur de l**'EGG.** Vous pouvez en découvrir toutes les spécificités chez **Lanef Passion** à [**Déville-lès-Rouen**.](https://www.google.com/maps/place/Lanef+Passion/@49.4558882,1.0549078,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e758d3e25c15:0x70fc0b24bb9f6ffb!8m2!3d49.4558912!4d1.0571117 "Google Maps")
 
@@ -58,6 +62,8 @@ Le **Big Green Egg** est particulièrement idéal pour fumer des produits et des
 À l’aide du ConvEGGtor et de la pierre de cuisson plate, transformez en un tournemain le **Big Green Egg** en **four à bois** pour y faire cuire des délicieuses pizzas et du pain croustillant. Vous pouvez ainsi varier les recettes à l’infini et encore mieux profiter des plaisirs de la cuisine en plein air.
 
 ## **Les modèles :**
+
+![](/uploads/png-big-green-egg-all-models-lifestyle-1.png)
 
 **Big Green Egg** s'adapte à tous les styles de vie et à toutes les occasions en proposant 7 modèles différents. Quelle que soit la taille de votre famille, de votre cercle d’amis, de votre jardin ou de votre terrasse, vous trouverez toujours l’**EGG** qui vous convient le mieux ! Vous pouvez découvrir 3 des formats existants de la marque, étant le MiniMax, le Médium et le Large,au showroom de **Lanef Passion** !
 
