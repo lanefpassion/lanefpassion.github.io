@@ -15,7 +15,7 @@ image_cover: "/uploads/png-1w5a2659.png"
 ---
 Une [**cuisine d’été**](https://www.lanefpassion.fr/cuisines/cuisine-d-ete/ "Cuisine d'été Lanef Passion") idéale nécessite l’intégration d’un équipement adapté. C’est dans cette optique que le **cuisiniste Lanef Passion**, situé proche de **Rouen**, a sélectionné pour vous des partenaires triés sur le volet. Pour le **barbecue** c’est **Big Green Egg** qui a retenue toute l’attention. Le Big Green Egg est un véritable cuiseur polyvalent en céramique ayant conquis le cœur de chefs célèbres du monde entier. Il trône dans les cuisines des meilleurs restaurants et même dans les jardins des palaces. Tout est question de saveur, des saveurs auxquelles vous n’aviez encore jamais gouté.
 
-![](/uploads/webimage-e25f1770-d1bc-4ab4-8ffe6a9dbdbd006b.jpg)
+![](/uploads/webimage-e25f1770-d1bc-4ab4-8ffe6a9dbdbd006b.jpg "Big Green Egg Lanef Passion")
 
 ## **Origine du Big Green Egg**
 
@@ -27,7 +27,7 @@ propriétés extrêmement isolantes, combiné aux divers autres éléments breve
 
 ## **L’EGG**
 
-![](/uploads/webversion-1w5a0961.jpg)
+![](/uploads/webversion-1w5a0961.jpg "Big Green Egg Lanef Passion")
 
 En tant que fin gourmet, vous êtes sûr d'une chose : avec le **Big Green Egg,** votre **cuisine extérieure** sera équipée d'un kamado de la plus haute qualité. Son esthétique en fait un véritable objet design qui se mêlera facilement à toutes les ambiances extérieures.
 
@@ -41,7 +41,7 @@ une ambiance conviviale des plaisirs de la vie, c'est ce que vous offre le **Big
 
 ## **Les modes de cuisson :**
 
-![](/uploads/p2.png)
+![](/uploads/p2.png "Big Green Egg Lanef Passion")
 
 **Big Green Egg** vous offre des possibilités de cuisson infinies grâce à la combinaison de plusieurs facteurs : la céramique qui réfléchit la chaleur, créant ainsi un flux d'air qui rend les ingrédients et les plats encore plus tendres, et la circulation d'air parfaite, qui assure une cuisson uniforme à la température souhaitée. Citons encore le réglage précis à un degré près de la température qui est maintenue à la valeur fixée. Grâce aux propriétés isolantes supérieures de la céramique, les températures extérieures n'ont aucune incidence sur la température à l'intérieur de l**'EGG.** Vous pouvez en découvrir toutes les spécificités chez **Lanef Passion** à [**Déville-lès-Rouen**.](https://www.google.com/maps/place/Lanef+Passion/@49.4558882,1.0549078,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e758d3e25c15:0x70fc0b24bb9f6ffb!8m2!3d49.4558912!4d1.0571117 "Google Maps")
 
@@ -65,7 +65,7 @@ Le **Big Green Egg** est particulièrement idéal pour fumer des produits et des
 
 ## **Les modèles :**
 
-![](/uploads/png-big-green-egg-all-models-lifestyle-1.png)
+![](/uploads/png-big-green-egg-all-models-lifestyle-1.png "Big Green Egg Lanef Passion")
 
 **Big Green Egg** s'adapte à tous les styles de vie et à toutes les occasions en proposant 7 modèles différents. Quelle que soit la taille de votre famille, de votre cercle d’amis, de votre jardin ou de votre terrasse, vous trouverez toujours l’**EGG** qui vous convient le mieux ! Vous pouvez découvrir 3 des formats existants de la marque, étant le MiniMax, le Médium et le Large,au showroom de **Lanef Passion** !
 
