@@ -99,6 +99,8 @@ Vous avez une grande famille et/ou beaucoup d’amis ? Ou bien vous travaillez d
 
 Le **Big Green Egg 2XL** est le membre le plus volumineux de la famille Big Green et le kamado le plus grand disponible sur le marché. Ce modèle est impressionnant sur tous les points : son poids, son envergure, sa hauteur et sa surface de cuisson. Il peut néanmoins être facilement déplacé grâce au berceau Egg et sa poignée. Son format et son incroyable multifonctionnalité le placent peut-être au rang des “stars” des appareils de cuisine.
 
+![](/uploads/png-biggreenegg_enjoy-11_provence_79.png)
+
 Vous découvrirez prochainement les différents supports et accessoires existants et de nombreuses astuces et conseils pour utiliser, cuisiner, nettoyer votre Egg !
 
 Vous rêvez d’acquérir le **Big Green Egg**, ce produit exceptionnel de cuisson ? Rendez-vous chez [**Lanef Passion à Déville-lès-Rouen**](https://www.google.com/maps/place/Lanef+Passion/@49.4558882,1.0549078,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e758d3e25c15:0x70fc0b24bb9f6ffb!8m2!3d49.4558912!4d1.0571117 "Google Maps") ou directement sur le site internet [**www.lanefpassion.fr**](https://www.lanefpassion.fr/ "Site internet")
