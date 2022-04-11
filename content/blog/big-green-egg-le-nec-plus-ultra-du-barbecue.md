@@ -15,6 +15,8 @@ image_cover: "/uploads/png-1w5a2659.png"
 ---
 Une [**cuisine d’été**](https://www.lanefpassion.fr/cuisines/cuisine-d-ete/ "Cuisine d'été Lanef Passion") idéale nécessite l’intégration d’un équipement adapté. C’est dans cette optique que le **cuisiniste Lanef Passion**, situé proche de **Rouen**, a sélectionné pour vous des partenaires triés sur le volet. Pour le **barbecue** c’est **Big Green Egg** qui a retenue toute l’attention. Le Big Green Egg est un véritable cuiseur polyvalent en céramique ayant conquis le cœur de chefs célèbres du monde entier. Il trône dans les cuisines des meilleurs restaurants et même dans les jardins des palaces. Tout est question de saveur, des saveurs auxquelles vous n’aviez encore jamais gouté.
 
+![](/uploads/webimage-e25f1770-d1bc-4ab4-8ffe6a9dbdbd006b.jpg)
+
 ## **Origine du Big Green Egg**
 
 L'idée ayant donné naissance au **Big Green Egg** remonte à plusieurs siècles en arrière. Il était en effet déjà utilisé il y a plus de 3 000 ans dans l'est de l'Asie comme four traditionnel en argile, chauffé au bois. C'est là que les Japonais l'ont découvert, apprécié et emmené avec eux, en lui donnant affectueusement le nom de « kamado », ce qui signifie four ou foyer. Au début du siècle dernier, des soldats américains, présents au Japon, découvrirent le kamado et le ramenèrent chez eux en souvenir. La technologie de pointe de la NASA dans le domaine de la céramique a elle aussi contribué à la naissance de cet appareil de cuisson absolument extraordinaire : **le Big Green Egg**. Vous pouvez découvrir ce **barbecue** extraordinaire chez [**Lanef Passion**](https://www.lanefpassion.fr/ "Site internet Lanef Passion") à **Déville-lès-Rouen** !
@@ -39,7 +41,7 @@ une ambiance conviviale des plaisirs de la vie, c'est ce que vous offre le **Big
 
 ## **Les modes de cuisson :**
 
-![](/uploads/sans-titre-28.png)
+![](/uploads/p2.png)
 
 **Big Green Egg** vous offre des possibilités de cuisson infinies grâce à la combinaison de plusieurs facteurs : la céramique qui réfléchit la chaleur, créant ainsi un flux d'air qui rend les ingrédients et les plats encore plus tendres, et la circulation d'air parfaite, qui assure une cuisson uniforme à la température souhaitée. Citons encore le réglage précis à un degré près de la température qui est maintenue à la valeur fixée. Grâce aux propriétés isolantes supérieures de la céramique, les températures extérieures n'ont aucune incidence sur la température à l'intérieur de l**'EGG.** Vous pouvez en découvrir toutes les spécificités chez **Lanef Passion** à [**Déville-lès-Rouen**.](https://www.google.com/maps/place/Lanef+Passion/@49.4558882,1.0549078,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e758d3e25c15:0x70fc0b24bb9f6ffb!8m2!3d49.4558912!4d1.0571117 "Google Maps")
 
