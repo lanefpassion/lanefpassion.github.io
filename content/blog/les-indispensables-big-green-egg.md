@@ -15,7 +15,7 @@ image_cover: ''
 ---
 En tant que fin gourmet, vous êtes sûr d'une chose : avec le **Big Green Egg,** votre **cuisine extérieure** sera équipée d'un kamado de la plus haute qualité. Son esthétique en fait un véritable objet design qui se mêlera facilement à toutes les ambiances extérieures.
 
-Le **Big Green Egg** vous permet non seulement de faire des grillades, mais de rôtir, fumer, et cuire lentement à l'étouffée les aliments. C’est pour ces raisons que **Lanef Passion**, **cuisiniste haut de gamme** à **Rouen** a choisi d’intégrer ce cuiseur polyvalent dans ces conceptions **outdoor.** Profitez du meilleur de votre Big Green Egg avec son assortiment exceptionnel d'accessoires. Découvrez les accessoires complémentaires indispensables et comment ils peuvent vous aider à mettre en valeur vos ingrédients et élargir les possibilités offertes par votre EGG.
+Le **Big Green Egg** vous permet non seulement de faire des grillades, mais de rôtir, fumer, et cuire lentement à l'étouffée les aliments. C’est pour ces raisons que [**Lanef Passion**, **cuisiniste haut de gamme**](Site internet "https://www.lanefpassion.fr/") à **Rouen** a choisi d’intégrer ce cuiseur polyvalent dans ces conceptions **outdoor.** Profitez du meilleur de votre Big Green Egg avec son assortiment exceptionnel d'accessoires. Découvrez les accessoires complémentaires indispensables et comment ils peuvent vous aider à mettre en valeur vos ingrédients et élargir les possibilités offertes par votre EGG.
 
 ## **Les supports pour EGG :**
 
@@ -35,13 +35,13 @@ Fabriquée artisanalement, cette table est fabriquée à partir de planches de b
 
 Le nouveau système modulaire **Big Green Egg** est une sorte de Lego pour adultes. Il a été développé de manière à pouvoir vous permettre de compléter au gré de vos envies votre **cuisine** en combinant tous les éléments dont vous avez besoin. Vous voulez un plus grand plan de travail? Ce système modulaire est aussi polyvalent que l’EGG lui-même! Vous pouvez même adapter la forme et le style de votre **cuisine de plein ai**r en fonction de vos goûts et de vos exigences personnelles.Commencez par monter la structure principale et continuez progressivement en ajoutant différents blocs d’extension, des cadres d’insertion ainsi que d’autres éléments supplémentaires. Votre cuisine va s’étendre dans le jardin!
 
-Vous pouvez retrouver l’ensemble de ces supports en exposition chez votre concepteur de **cuisine de luxe** **Lanef Passion** proche de **Rouen**.
+Vous pouvez retrouver l’ensemble de ces supports en exposition chez votre concepteur de [**cuisine de luxe** **Lanef Passion**](https://www.lanefpassion.fr/cuisines "Cuisines Lanef Passion") proche de **Rouen**.
 
 ## **Les indispensables pour l’allumage**
 
 #### **Charbon de bois**
 
-Chaque nouvelle utilisation de votre EGG commence par le choix du combustible adéquat. Le charbon de bois **Big Green Egg** est fabriqué à partir de bois de hêtre commun, de hêtre et charme et offre une très longue durée de combustion. Pour une saveur fumée plus prononcée, il vous suffit d’ajouter des[ copeaux](https://www.biggreenegg.eu/fr/produits/accessoires/copeaux-de-bois) et des[ morceaux](https://www.biggreenegg.eu/fr/produits/accessoires/morceaux-de-bois) de bois **Big Green Egg** à votre charbon de bois. Vous retrouverez chez **Lanef Passion** les sacs de 4.5 kg et de 9 kg.
+Chaque nouvelle utilisation de votre EGG commence par le choix du combustible adéquat. Le charbon de bois **Big Green Egg** est fabriqué à partir de bois de hêtre commun, de hêtre et charme et offre une très longue durée de combustion. Pour une saveur fumée plus prononcée, il vous suffit d’ajouter des copeaux et des morceaux de bois **Big Green Egg** à votre charbon de bois. Vous retrouverez chez **Lanef Passion** les sacs de 4.5 kg et de 9 kg.
 
 #### **Allume-feu**
 
@@ -55,7 +55,7 @@ Grâce aux différents copeaux de bois originaux **Big Green Egg**, vous ajouter
 
 #### **Racloir à cendres**
 
-Le racloir à cendres cumule en fait une double fonction : s’il vous permet de récupérer les cendres à la base de l’EGG en toute simplicité, il vous sera également fort utile dans le rôle de tisonnier lors de l’allumage du charbon de bois. Cet accessoire extrêmement pratique trouve un partenaire idéal dans la[ pelle à cendres](https://www.biggreenegg.eu/fr/produits/accessoires/pelle-a-cendres). Disponible en 2 taille chez **Lanef Passion** !
+Le racloir à cendres cumule en fait une double fonction : s’il vous permet de récupérer les cendres à la base de l’EGG en toute simplicité, il vous sera également fort utile dans le rôle de tisonnier lors de l’allumage du charbon de bois. Cet accessoire extrêmement pratique trouve un partenaire idéal dans la pelle à cendres. Disponible en 2 taille chez **Lanef Passion** !
 
 #### **Pelle à cendre**
 
@@ -77,7 +77,7 @@ Les bons outils font les bons ouvriers, c’est bien connu. Tout véritable spé
 
 #### **Extracteur pour grille en fonte**
 
-L’extracteur pour grille en fonte est un accessoire extrêmement pratique, conçu pour soulever aisément les lourdes grilles de barbecue, ou les remettre en place, sans se salir les mains. La plaque placée directement sous la poignée protège votre main d’une éventuelle montée d’air chaud. A découvrir chez **Lanef Passion** !
+L’extracteur pour grille en fonte est un accessoire extrêmement pratique, conçu pour soulever aisément les lourdes grilles de barbecue, ou les remettre en place, sans se salir les mains. La plaque placée directement sous la poignée protège votre main d’une éventuelle montée d’air chaud. A découvrir chez [**Lanef Passion** ](https://www.lanefpassion.fr/contact/ "Rendez-vous Lanef Passion")!
 
 #### **Housse**
 
@@ -105,4 +105,4 @@ Vous arrive-t-il aussi de voir certains ingrédients disparaître au travers de 
 
 Cuisez votre poulet ou votre dinde sur le support vertical en céramique pour volaille et vous êtes assuré d’obtenir une volaille juteuse et savoureuse à souhait, à la peau délicieusement dorée et croustillante ! Vous souhaitez lui apporter quelques arômes supplémentaires ? Ajoutez un peu de bière, de vin, de cidre et/ou d’épices aromatiques dans le support en céramique et votre volaille touchera à la perfection.
 
-Vous avez des questions particulières ou vous souhaitez en savoir plus sur les modèles **Big Green Egg** et sa collection d’accessoires ? Rendez-vous chez **Lanef Passion**, **concepteur de cuisine** à **Déville-lès-Rouen**!
+Vous avez des questions particulières ou vous souhaitez en savoir plus sur les modèles **Big Green Egg** et sa collection d’accessoires ? Rendez-vous chez **Lanef Passion**, **concepteur de cuisine** à [**Déville-lès-Rouen**](https://www.google.com/maps/place/Lanef+Passion/@49.4558882,1.0570965,15z/data=!4m2!3m1!1s0x0:0x70fc0b24bb9f6ffb?sa=X&ved=2ahUKEwjbh_K46p_3AhWIyoUKHdrkCIgQ_BJ6BAhUEAU "Google Maps")!
