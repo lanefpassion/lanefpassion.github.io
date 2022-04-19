@@ -15,7 +15,7 @@ image_cover: "/uploads/cmyjefzq.jpg"
 ---
 En tant que fin gourmet, vous êtes sûr d'une chose : avec le **Big Green Egg,** votre **cuisine extérieure** sera équipée d'un kamado de la plus haute qualité. Son esthétique en fait un véritable objet design qui se mêlera facilement à toutes les ambiances extérieures.
 
-Le **Big Green Egg** vous permet non seulement de faire des grillades, mais de rôtir, fumer, et cuire lentement à l'étouffée les aliments. C’est pour ces raisons que [**Lanef Passion**, **cuisiniste haut de gamme**](Site internet "https://www.lanefpassion.fr/") à **Rouen** a choisi d’intégrer ce cuiseur polyvalent dans ces conceptions **outdoor.** Profitez du meilleur de votre Big Green Egg avec son assortiment exceptionnel d'accessoires. Découvrez les accessoires complémentaires indispensables et comment ils peuvent vous aider à mettre en valeur vos ingrédients et élargir les possibilités offertes par votre EGG.
+Le **Big Green Egg** vous permet non seulement de faire des grillades, mais de rôtir, fumer, et cuire lentement à l'étouffée les aliments. C’est pour ces raisons que **Lanef Passion**, **cuisiniste haut de gamme** à **Rouen** a choisi d’intégrer ce cuiseur polyvalent dans ces conceptions **outdoor.** Profitez du meilleur de votre Big Green Egg avec son assortiment exceptionnel d'accessoires. Découvrez les accessoires complémentaires indispensables et comment ils peuvent vous aider à mettre en valeur vos ingrédients et élargir les possibilités offertes par votre EGG.
 
 ## **Les supports pour EGG :**
 
