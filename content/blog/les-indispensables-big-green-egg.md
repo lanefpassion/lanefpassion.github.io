@@ -19,7 +19,7 @@ Le **Big Green Egg** vous permet non seulement de faire des grillades, mais de r
 
 ## **Les supports pour EGG :**
 
-![](/uploads/0o2a4458.jpg)
+![Support pour Big Green Egg](/uploads/0o2a4458.jpg "Big Green Egg Lanef Passion")
 
 #### **Le berceau à Roulettes :**
 
@@ -41,7 +41,7 @@ Vous pouvez retrouver l’ensemble de ces supports en exposition chez votre conc
 
 ## **Les indispensables pour l’allumage**
 
-![](/uploads/banner-charcoal-starters-2021-1200x600-1.jpg)
+![Bi Green Egg : charbon, copeaux, allume-feu](/uploads/banner-charcoal-starters-2021-1200x600-1.jpg "Big Green Egg Lanef Passion")
 
 #### **Charbon de bois**
 
@@ -57,7 +57,7 @@ Grâce aux différents copeaux de bois originaux **Big Green Egg**, vous ajouter
 
 ## **Les indispensables pour l’entretien**
 
-![](/uploads/topimage-ash-tool-800x800.jpg)
+![Bi Green egg : pelle à cendres, racloir à cendres](/uploads/topimage-ash-tool-800x800.jpg "Big Green Egg Lanef Passion")
 
 #### **Racloir à cendres**
 
@@ -73,7 +73,7 @@ Le tampon à récurer vous permet de très rapidement nettoyer[ la grille en aci
 
 ## **Les indispensables pour la protection**
 
-![](/uploads/8100354-gant-de-barbecue-avec-aramide-eggmitt-big-green-egg-2-jpg.webp)
+![Big Green EGG : egg Mit/gant](/uploads/8100354-gant-de-barbecue-avec-aramide-eggmitt-big-green-egg-2-jpg.webp "Big Green Egg Lanef Passion")
 
 #### **Gant pour barbecue**
 
@@ -93,7 +93,7 @@ Grêle ou canicule ? Maintenez votre **Big Green Egg** dans un état optimal gr�
 
 ## **Les indispensables pour la cuisson**
 
-![](/uploads/egg-l_mates_w-eggspander_pizza.png)
+![Big grenn egg accessoires](/uploads/egg-l_mates_w-eggspander_pizza.png "Big Green Egg Lanef Passion")
 
 #### **Grille en fonte**
 
