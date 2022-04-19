@@ -10,7 +10,7 @@ excerpt: "En tant que fin gourmet, vous êtes sûr d'une chose : avec le Big Gre
   pour ces raisons que Lanef Passion, cuisiniste haut de gamme à Rouen a choisi d’intégrer
   ce cuiseur polyvalent dans ces conceptions outdoor. Profitez du meilleur de votre
   Big Green Egg avec son assortiment exceptionnel d'accessoires. "
-image_cover: ''
+image_cover: "/uploads/cmyjefzq.jpg"
 
 ---
 En tant que fin gourmet, vous êtes sûr d'une chose : avec le **Big Green Egg,** votre **cuisine extérieure** sera équipée d'un kamado de la plus haute qualité. Son esthétique en fait un véritable objet design qui se mêlera facilement à toutes les ambiances extérieures.
@@ -18,6 +18,8 @@ En tant que fin gourmet, vous êtes sûr d'une chose : avec le **Big Green Egg,*
 Le **Big Green Egg** vous permet non seulement de faire des grillades, mais de rôtir, fumer, et cuire lentement à l'étouffée les aliments. C’est pour ces raisons que [**Lanef Passion**, **cuisiniste haut de gamme**](Site internet "https://www.lanefpassion.fr/") à **Rouen** a choisi d’intégrer ce cuiseur polyvalent dans ces conceptions **outdoor.** Profitez du meilleur de votre Big Green Egg avec son assortiment exceptionnel d'accessoires. Découvrez les accessoires complémentaires indispensables et comment ils peuvent vous aider à mettre en valeur vos ingrédients et élargir les possibilités offertes par votre EGG.
 
 ## **Les supports pour EGG :**
+
+![](/uploads/0o2a4458.jpg)
 
 #### **Le berceau à Roulettes :**
 
@@ -39,6 +41,8 @@ Vous pouvez retrouver l’ensemble de ces supports en exposition chez votre conc
 
 ## **Les indispensables pour l’allumage**
 
+![](/uploads/banner-charcoal-starters-2021-1200x600-1.jpg)
+
 #### **Charbon de bois**
 
 Chaque nouvelle utilisation de votre EGG commence par le choix du combustible adéquat. Le charbon de bois **Big Green Egg** est fabriqué à partir de bois de hêtre commun, de hêtre et charme et offre une très longue durée de combustion. Pour une saveur fumée plus prononcée, il vous suffit d’ajouter des copeaux et des morceaux de bois **Big Green Egg** à votre charbon de bois. Vous retrouverez chez **Lanef Passion** les sacs de 4.5 kg et de 9 kg.
@@ -53,6 +57,8 @@ Grâce aux différents copeaux de bois originaux **Big Green Egg**, vous ajouter
 
 ## **Les indispensables pour l’entretien**
 
+![](/uploads/topimage-ash-tool-800x800.jpg)
+
 #### **Racloir à cendres**
 
 Le racloir à cendres cumule en fait une double fonction : s’il vous permet de récupérer les cendres à la base de l’EGG en toute simplicité, il vous sera également fort utile dans le rôle de tisonnier lors de l’allumage du charbon de bois. Cet accessoire extrêmement pratique trouve un partenaire idéal dans la pelle à cendres. Disponible en 2 taille chez **Lanef Passion** !
@@ -66,6 +72,8 @@ Le charbon de bois produit des cendres, c’est bien connu. Mais il est préfér
 Le tampon à récurer vous permet de très rapidement nettoyer[ la grille en acier inoxydable](https://www.biggreenegg.eu/fr/produits/accessoires/grille-en-acier-inoxydable) ou en[ fonte](https://www.biggreenegg.eu/fr/produits/accessoires/grille-en-fonte) **Big Green Egg**, et ce même si la grille est encore chaude, son long manche étant idéal pour tenir la chaleur à distance. Nettoyer vos grilles n’en deviendra sans doute pas plus amusant, mais au moins, vous y passerez moins de temps !
 
 ## **Les indispensables pour la protection**
+
+![](/uploads/8100354-gant-de-barbecue-avec-aramide-eggmitt-big-green-egg-2-jpg.webp)
 
 #### **Gant pour barbecue**
 
@@ -84,6 +92,8 @@ L’extracteur pour grille en fonte est un accessoire extrêmement pratique, con
 Grêle ou canicule ? Maintenez votre **Big Green Egg** dans un état optimal grâce à une housse. Cette protection fabriquée dans un matériau respirant haut de gamme défie toutes les intempéries. Aussi facile à mettre en place qu’à retirer, elle s’ajuste parfaitement à l’EGG grâce à sa fermeture Velcro.
 
 ## **Les indispensables pour la cuisson**
+
+![](/uploads/egg-l_mates_w-eggspander_pizza.png)
 
 #### **Grille en fonte**
 
