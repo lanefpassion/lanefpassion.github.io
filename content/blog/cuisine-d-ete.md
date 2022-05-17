@@ -7,7 +7,7 @@ excerpt: 'Reflet de la convivialité, du bien-être et de la praticité, la cuis
   proche de la nature. C’est pour cette raison que Lanef Passion, cuisiniste de renom
   situé proche de Rouen, a développé la conception de cuisine outdoor sur-mesure il
   y a tout juste un an ! '
-image_cover: "/uploads/0o2a4447.jpg"
+image_cover: "/uploads/p3.png"
 
 ---
 Reflet de la convivialité, du bien-être et de la praticité, la **cuisine Outdoor** offre la possibilité de cuisiner en toute liberté, en plein air pour être au plus proche de la nature. C’est pour cette raison que **Lanef Passion**, **cuisiniste** de renom situé proche de **Rouen**, a développé la conception de **cuisine outdoor sur-mesure** il y a tout juste un an.
