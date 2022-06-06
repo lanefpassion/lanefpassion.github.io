@@ -15,6 +15,8 @@ Reconnu comme expert du froid, LIEBHERR se positionne aujourd’hui comme leader
 
 Depuis plus d’un demi-siècle, Liebherr recherche sans cesse des solutions toujours plus innovantes. Guidé par l’amélioration de votre quotidien en matière de réfrigération et de congélation, il fabrique des appareils de qualité **haut de gamme**, sans renoncer à un design contemporain ni aux exigences du high-tech. Cette quête de la qualité et de la durabilité fait partie des clés du succès de Liebherr et est le reflet des exigences de [**Lanef Passion**](https://www.lanefpassion.fr/ "Page acceuil - Lanef Passion") !
 
+![](/uploads/medium_49_modeles_et_4_series_les_nouveaute_561698_principale.jpg "Libeherr réfrigérateur - Lanef Passion")
+
 ## **Une solution sur-mesure pour chaque cuisine**
 
 **Liebherr** vous propose un large choix de produits avec plus de 200 références pour la conservation des produits frais, du vin et pour la congélation. Vous trouverez forcément celui qu’il vous faut !
@@ -35,6 +37,8 @@ La qualité de leurs produits **électroménagers** est au service de l’usage 
 
 La qualité est un point essentiel dans la conception de **cuisines équipées** chez **Lanef Passion** !
 
+![](/uploads/cnes-6256.jpg "Liebherr Frenchdoor - Lanef Passion")
+
 ## **Liebherr : un design élégant et intemporel!**
 
 Grâce à leur design élégant et intemporel, les appareils de réfrigération et de congélation de Liebherr répondent aux exigences esthétiques les plus élevées. La qualité du design de leurs appareils **électroménagers** se manifeste à travers de multiples détails. Le design est au service du confort au quotidien. Pour Liebherr, le design et la fonctionnalité sont indissociables. L’esthétique soignée à l’intérieur de l’appareil est un véritable prolongement de son allure extérieure.
@@ -53,6 +57,8 @@ Depuis plus de 60 ans, Liebherr signe l‘innovation ! Des technologies exclusiv
 
 La technologie de froid BLU introduit de nouveaux standards et laisse apparaître les prémices du froid du futur ! Conçue pour répondre aux attentes fortes des consommateurs en matière de volume de stockage, d’économie d’énergie, de confort et de silence, la technologie BLUPerformance permet d‘augmenter jusqu‘à 20% le volume utile disponible et de garantir une efficacité énergétique maximale !
 
+![](/uploads/avec_sa_gamme_de_49_refrigerateurs_e_0205451_306.jpg "Libherr chez Lanef Passion")
+
 ## **Concept Side-by-Side par Liebherr**
 
 Avec le concept **Side by Side** à composer, les réfrigérateurs, les congélateurs ainsi que les armoires à vin peuvent être associés pour répondre aux besoins de conservation de chacun vous offrant la possibilité de créer votre propre Centre de fraîcheur. Du fait de sa modularité, vous pouvez profiter des avantages particuliers des différents équipements !
@@ -60,5 +66,7 @@ Avec le concept **Side by Side** à composer, les réfrigérateurs, les congéla
 A vous de composer votre combiné : réfrigérateur-congélateur, réfrigérateurs, congélateurs et armoires à vins ! Venez découvrir ce concept chez **Lanef Passion**, concepteur de **cuisine de luxe** !
 
 Un Side-by-Side de Liebherr est composé de deux appareils individuels permettant plus de légèreté lors du transport et une simplicité d’installation. Pour éviter la formation de condensation entre les unités à température plus froide et les unités à forte variations de températures, les modèles Side-by-Syde sont équipés d’un élément chauffant intégré dans la paroi supérieure et/ou latérale. Cela vous permet de coupler un réfrigérateur à un congélateur sans problème, tout en protégeant les autres appareils et meubles de cuisine.
+
+![](/uploads/sbses-8496.webp "Liebherr Side by Side - Lanef Passion")
 
 Vous avez besoin d’un produit **électroménager Liebherr** ? Rendez-vous au showroom de **Lanef Passion** à [**Déville-lès-Rouen**](https://www.google.com/maps/place/Miele+-+Lanef+Passion/@49.4558882,1.0549078,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e758c47efdc7:0xca18b9cda965f4dc!8m2!3d49.4558912!4d1.0571117 "Google Maps - Lanef Passion") !
