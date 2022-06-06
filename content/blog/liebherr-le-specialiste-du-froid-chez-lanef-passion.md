@@ -8,7 +8,7 @@ excerpt: Depuis plus d’un demi-siècle, Liebherr recherche sans cesse des solu
   gamme, sans renoncer à un design contemporain ni aux exigences du high-tech. Cette
   quête de la qualité et de la durabilité fait partie des clés du succès de Liebherr
   et est le reflet des exigences de Lanef Passion !
-image_cover: ''
+image_cover: "/uploads/frigo2-1.webp"
 
 ---
 Reconnu comme expert du froid, LIEBHERR se positionne aujourd’hui comme leader européen de la conception et fabrication de réfrigérateurs, congélateurs et caves à vin **haut de gamme**. C’est pour cette raison que **Lanef Passion**, **cuisiniste** de renom situé proche de [**Rouen**,](https://www.google.com/maps/place/Miele+-+Lanef+Passion/@49.4558882,1.0549078,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e758c47efdc7:0xca18b9cda965f4dc!8m2!3d49.4558912!4d1.0571117 "Google Maps - Lanef Passion") a décidé de collaborer avec cette marque depuis maintenant plusieurs décennies dans l’objectif de proposer le meilleur de la technologie à ses clients.
