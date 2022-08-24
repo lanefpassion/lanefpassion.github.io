@@ -25,6 +25,6 @@
   "notification": {
     "titre": "Congés d'été",
     "message": "Chers clients, notre boutique sera fermée du 1er au 21 août. Passez un bel été !",
-    "active": true
+    "active": false
   }
 }
