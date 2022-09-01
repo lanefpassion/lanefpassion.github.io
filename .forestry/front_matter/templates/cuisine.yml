@@ -14,6 +14,8 @@ fields:
 - type: file
   name: image_cover
   label: image_cover
+  config:
+    maxSize: 2
 pages:
 - content/cuisines/cuisine-a-l-accent-pop-proche-rouen.md
 - content/cuisines/cuisine-aux-caraibes.md
