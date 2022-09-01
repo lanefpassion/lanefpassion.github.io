@@ -11,6 +11,8 @@ fields:
 - type: file
   name: image_featured
   label: image_featured
+  config:
+    maxSize: 2
 - type: text
   name: url
   label: url

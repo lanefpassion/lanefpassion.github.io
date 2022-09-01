@@ -36,7 +36,7 @@ fields:
 - name: image_cover
   type: file
   config:
-    maxSize: 64
+    maxSize: 2
   label: Image Cover
   description: Image de couverture. Apparait dans la liste des articles
 pages:
