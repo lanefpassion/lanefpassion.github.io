@@ -8,7 +8,7 @@
     <section class="entry__content">
       <p class="text-center">
         <strong>
-          Du lundi au vendredi de 10h à 12h et de 14h à 19h <br>
+          Du lundi au vendredi de 10h à 12h et de 14h à 18h30 <br>
           le samedi sur rendez-vous pour votre projet cuisine.
         </strong>
       </p>
