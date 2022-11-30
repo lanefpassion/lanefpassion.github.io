@@ -24,7 +24,7 @@
   },
   "notification": {
     "titre": "",
-    "message": "",
-    "active": false
+    "message": "Venez profiter d'un destockage exclusif sur nos marques jusqu'au 15 décembre  : Lacanche, Cristel, Demeyere et bien d'autres ! ",
+    "active": true
   }
 }
